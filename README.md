@@ -26,9 +26,8 @@ bash GTAV.sh
 ```
 ### Age Of Empires III - Veja primeiro o tutorial no youtube:
 
-![Age Of Empires III](https://www.youtube.com/watch?v=Di8j04UFY4c)
-
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh
 bash ageofempiresIII.sh
 ```
+[![Age Of Empires III](https://i.ytimg.com/vi/Di8j04UFY4c/hqdefault.jpg)](https://www.youtube.com/watch?v=Di8j04UFY4c)
