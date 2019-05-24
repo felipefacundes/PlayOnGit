@@ -19,10 +19,16 @@ reboot
 https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 
 ### GTA V - Veja primeiro o tutorial no youtube:
-
+###### Instalar:
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh
 bash GTAV.sh
+```
+###### Rodar:
+
+```bash
+wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/runs/GTAV-run.sh
+bash GTAV-run.sh
 ```
 ### Age Of Empires III - Veja primeiro o tutorial no youtube:
 
