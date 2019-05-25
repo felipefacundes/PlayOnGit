@@ -22,6 +22,7 @@ https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 ###### Instalar:
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh
+xdg-open GTAV.sh
 bash GTAV.sh
 ```
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
