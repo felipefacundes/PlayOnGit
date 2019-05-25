@@ -24,16 +24,14 @@ https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh
 bash GTAV.sh
 ```
-###### Rodar:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 
-```bash
-wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/runs/GTAV-run.sh
-bash GTAV-run.sh
-```
+
 ### Age Of Empires III - Veja primeiro o tutorial no youtube:
 
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh
 bash ageofempiresIII.sh
 ```
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Age Of Empires III](https://i.ytimg.com/vi/Di8j04UFY4c/hqdefault.jpg)](https://www.youtube.com/watch?v=Di8j04UFY4c)
