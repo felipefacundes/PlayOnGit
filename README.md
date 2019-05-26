@@ -11,6 +11,8 @@ su -c 'echo -e "* hard nofile 1048576" >> /etc/security/limits.conf'
 su -c 'echo -e "vm.swappiness=0" > /etc/sysctl.conf'
 reboot
 ```
+### TERCEIRO. Certifique-se que o seu driver Vulkan está habilitado. Para plascas Nvídia, basta instalar o driver proprietário. Para placas RADEON da AMD, siga esse meu tutorial abaixo:
+https://github.com/felipefacundes/desktop/tree/master/amdgpu
 #
 # Vamos aos Jogos:
 
@@ -18,7 +20,7 @@ reboot
 
 https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 
-### GTA V - Veja primeiro o tutorial no youtube:
+### GTA V - com suporte a DXVK - Veja primeiro o tutorial no youtube:
 ###### Instalar:
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh
