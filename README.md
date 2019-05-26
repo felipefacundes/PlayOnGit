@@ -2,6 +2,7 @@
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram: https://t.me/winehq_linux
 ###### Canal do Telegram: https://t.me/comandos_linux
+###### Canal do YouTube:  https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
 
 ### PRIMEIRO. Aumente a performance com mais +50 de FPS - habilite o Esync.
