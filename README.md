@@ -23,10 +23,10 @@ https://github.com/felipefacundes/desktop/tree/master/amdgpu
 https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no youtube:
-###### Instalar:
+##### Instalar:
 
 `wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh`
-###### Caso queira alterar o caminho do instalador do jogo é opcional: `xdg-open GTAV.sh`
+###### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open GTAV.sh`
 `bash GTAV.sh`
 
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
