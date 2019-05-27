@@ -1,5 +1,5 @@
 # PlayOnGit   
-#### - Scripts do Wine - para iniciar sem precisar de PlayOnLinux
+#### - Scripts do Wine - para iniciar sem precisar de PlayOnLinux ou Lutris, inicie direto do menu iniciar com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram: https://t.me/winehq_linux
 ###### Canal do Telegram: https://t.me/comandos_linux
@@ -24,11 +24,11 @@ https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no youtube:
 ###### Instalar:
-```bash
-wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh
-xdg-open GTAV.sh
-bash GTAV.sh
-```
+
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh`
+###### Caso queira alterar o caminho do instalador do jogo é opcional: `xdg-open GTAV.sh`
+`bash GTAV.sh`
+
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 
