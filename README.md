@@ -1,4 +1,4 @@
-# PlayOnGit
+# PlayOnGit  - Scripts do Wine - para iniciar sem precisar de PlayOnLinux
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram: https://t.me/winehq_linux
 ###### Canal do Telegram: https://t.me/comandos_linux
@@ -29,7 +29,7 @@ xdg-open GTAV.sh
 bash GTAV.sh
 ```
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-
+[![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 
 ### Age Of Empires III - Veja primeiro o tutorial no youtube:
 
