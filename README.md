@@ -26,7 +26,7 @@ https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh)`
 ##### Ou instale manualmente:
-`curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh`
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh`
 ###### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open GTAV.sh`
 `bash GTAV.sh`
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
