@@ -33,6 +33,11 @@ bash GTAV.sh
 
 pkill -9 AutoHotkey.exe
 ```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/ 
+xdg-open ~/.jogos/scripts/run/GTAV-run.sh
+```
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 
