@@ -41,6 +41,23 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 
+### The Sims 4 - com suporte a DXVK - Veja primeiro o tutorial no youtube:
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh)`
+##### Ou instale manualmente:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh`
+###### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TheSims4.sh`
+```bash
+bash TheSims4.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/ 
+xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
+```
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![GTA V](https://i1.ytimg.com/vi/7wr91-wgNfU/hqdefault.jpg)](https://telegra.ph/PlayOnGit-05-28)
+
 ### Age Of Empires III - Veja primeiro o tutorial no youtube:
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh
