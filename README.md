@@ -30,6 +30,7 @@ https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 ###### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open GTAV.sh`
 ```bash
 bash GTAV.sh
+
 pkill -9 AutoHotkey.exe
 ```
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
