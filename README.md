@@ -18,10 +18,6 @@ https://github.com/felipefacundes/desktop/tree/master/amdgpu
 #
 # Vamos aos Jogos:
 
-##### Local dos scripts de jogos:
-
-https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
-#
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
