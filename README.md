@@ -27,7 +27,7 @@ https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh)`
 ##### Ou instale manualmente:
 `wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh`
-###### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open GTAV.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open GTAV.sh`
 ```bash
 bash GTAV.sh
 
@@ -41,19 +41,19 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 
-### Origins - com suporte a DXVK - Veja primeiro o tutorial no youtube:
+### Origin - com suporte a DXVK - Veja primeiro o tutorial no youtube:
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origins.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
 ##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origins.sh`
-###### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TheSims4.sh`
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open Origin.sh`
 ```bash
-bash Origins.sh
+bash Origin.sh
 ```
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Origins/drive_c/ 
-xdg-open ~/.jogos/scripts/run/Origins-run.sh
+xdg-open ~/.jogos/wineprefixes/Origin/drive_c/ 
+xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
