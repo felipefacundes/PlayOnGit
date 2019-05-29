@@ -22,7 +22,8 @@ https://github.com/felipefacundes/desktop/tree/master/amdgpu
 
 https://github.com/felipefacundes/desktop/tree/master/wine-jogos/
 
-### GTA V - com suporte a DXVK - Veja primeiro o tutorial no youtube:
+### GTA V - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+[![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/GTAV.sh)`
 ##### Ou instale manualmente:
@@ -38,10 +39,9 @@ pkill -9 AutoHotkey.exe
 xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/ 
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GTA V](https://i.ytimg.com/vi/Lako69C_sw4/hqdefault.jpg)](https://youtu.be/Lako69C_sw4)
 
-### Origin - com suporte a DXVK - Veja primeiro o tutorial no youtube:
+### Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+[![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
 ##### Ou instale manualmente:
@@ -55,13 +55,11 @@ bash Origin.sh
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/ 
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
 
-### Age Of Empires III - Veja primeiro o tutorial no youtube:
+### Age Of Empires III - Veja primeiro o tutorial no YouTube:
+[![Age Of Empires III](https://i.ytimg.com/vi/Di8j04UFY4c/hqdefault.jpg)](https://www.youtube.com/watch?v=Di8j04UFY4c)
 ```bash
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh
 bash ageofempiresIII.sh
 ```
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Age Of Empires III](https://i.ytimg.com/vi/Di8j04UFY4c/hqdefault.jpg)](https://www.youtube.com/watch?v=Di8j04UFY4c)
+
