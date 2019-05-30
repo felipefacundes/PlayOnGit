@@ -76,4 +76,7 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh
 bash ageofempiresIII.sh
 ```
-
+# Vamos aos Softwares de Windows no Linux:
+###### Em construção...
+# Vamos aos Jogos Nativos:
+###### Em construção...
