@@ -1,7 +1,7 @@
 # PlayOnGit   
 #### - Scripts do Wine - para iniciar sem precisar de PlayOnLinux, Proton ou Lutris, inicie direto do menu iniciar com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
-###### Grupo do Telegram: https://t.me/winehq_linux
+###### Grupo do Telegram, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
 ###### Canal do Telegram: https://t.me/PlayOnGit
 ###### Canal do YouTube: https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
