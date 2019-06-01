@@ -52,7 +52,7 @@ xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
 ```
 #
-### Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+### Teste BETA do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
