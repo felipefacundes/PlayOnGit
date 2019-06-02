@@ -72,6 +72,8 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Minecraft-480.png)](https://telegra.ph/PlayOnGit-05-28)
+##### Dependências:
+`Para rodar esse jogo você precisará do jre8-openjdk (OpenJDK 1.8) e java-openjfx`
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/minecraft.sh)`
 ##### Ou instale manualmente:
