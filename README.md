@@ -1,4 +1,4 @@
-# PlayOnGit   
+# PlayOnGit 🕹 視 調   
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
