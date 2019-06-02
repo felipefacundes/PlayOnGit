@@ -1,8 +1,8 @@
-# PlayOnGit 🕹 視 調   
+# PlayOnGit 🕹 視 調
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
-###### Grupo do Telegram, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
-###### Canal do Telegram: https://t.me/PlayOnGit
+###### Grupo do 切 Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
+###### Canal do 切 Telegram 切: https://t.me/PlayOnGit
 ###### Canal do YouTube: https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
 
@@ -31,7 +31,7 @@ bash GTAV.sh
 ```
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/ 
+xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
@@ -65,8 +65,25 @@ bash Origin.sh
 ```
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Origin/drive_c/ 
+xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
+```
+#
+### Minecraft Windows - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Minecraft-480.png)](https://telegra.ph/PlayOnGit-05-28)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/minecraft.sh)`
+##### Ou instale manualmente:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/minecraft.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open minecraft.sh`
+```bash
+bash minecraft.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/nativos/minecraft/
+xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```
 #
 ### Age Of Empires III - Veja primeiro o tutorial no YouTube:
