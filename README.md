@@ -35,6 +35,23 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
+### Warframe - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.jpg)](https://telegra.ph/PlayOnGit-05-2)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/warframe.sh)`
+##### Ou instale manualmente:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/warframe.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open warframe.sh`
+```bash
+bash warframe.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
+xdg-open ~/.jogos/scripts/run/warframe-run.sh
+```
+#
 ### Steam Windows para Jogos do Windows via Steam - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.png)](https://telegra.ph/PlayOnGit-05-2)
