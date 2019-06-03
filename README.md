@@ -52,7 +52,7 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
-### The Sims 4 OFFLINE- com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TheSims4](https://i1.ytimg.com/vi/7wr91-wgNfU/hqdefault.jpg)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
