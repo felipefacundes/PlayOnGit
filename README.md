@@ -52,6 +52,23 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
+### The Sims 4 - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![TheSims4](https://i1.ytimg.com/vi/7wr91-wgNfU/hqdefault.jpg)](https://telegra.ph/PlayOnGit-05-2)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh)`
+##### Ou instale manualmente:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TheSims4.sh`
+```bash
+bash TheSims4.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
+xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
+```
+#
 ### Steam Windows para Jogos do Windows via Steam - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.png)](https://telegra.ph/PlayOnGit-05-2)
