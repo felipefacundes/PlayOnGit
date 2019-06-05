@@ -1,5 +1,5 @@
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 04/06/2019
+##### Conteúdo atualizado em 05/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do 切 Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -151,7 +151,7 @@ bash ageofempiresIII.sh
 #
 ### Tibia - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
+[![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.jpg)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/tibia.sh)`
 
