@@ -1,4 +1,5 @@
 # PlayOnGit 🕹
+##### Atualiazação de Conteúdo em 04/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do 切 Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -69,7 +70,7 @@ xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 #
 ### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TDKC](https://i.ytimg.com/vi/feF7kc782cQ/maxresdefault.jpg)](https://telegra.ph/PlayOnGit-05-2)
+[![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TDKC.jpg)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
 `wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TDKC.sh`
 ##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TDKC.sh`
