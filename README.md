@@ -67,6 +67,21 @@ xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
 xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```
 #
+### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![TDKC](https://i.ytimg.com/vi/feF7kc782cQ/maxresdefault.jpg)](https://telegra.ph/PlayOnGit-05-2)
+##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TDKC.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TDKC.sh`
+```bash
+bash TDKC.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TDKC/drive_c/
+xdg-open ~/.jogos/scripts/run/TDKC-run.sh
+```
+#
 ### Steam Windows para Jogos do Windows via Steam - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.png)](https://telegra.ph/PlayOnGit-05-2)
