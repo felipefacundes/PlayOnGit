@@ -38,17 +38,24 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
-### Devil May Cry 5 - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Devil May Cry 5 (2019)- com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc5.jpg)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc5.sh)`
-##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc5.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open dmc5.sh`
+
+###### Opcional para quem quiser fazer alterações:
 ```bash
-bash dmc5.sh
+xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
+xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
+#
+### Devil May Cry (2013) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013-anuncio.png)](https://youtu.be/Lako69C_sw4)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc-2013.sh)`
+
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
@@ -60,12 +67,7 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.jpg)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/warframe.sh)`
-##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/warframe.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open warframe.sh`
-```bash
-bash warframe.sh
-```
+
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
