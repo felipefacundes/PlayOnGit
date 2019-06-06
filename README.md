@@ -36,6 +36,23 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
+### Devil May Cry 5 - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc5.jpg)](https://youtu.be/Lako69C_sw4)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc5.sh)`
+##### Ou instale manualmente:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc5.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open dmc5.sh`
+```bash
+bash dmc5.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
+xdg-open ~/.jogos/scripts/run/dmc5-run.sh
+```
+#
 ### Warframe - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.jpg)](https://telegra.ph/PlayOnGit-05-2)
@@ -148,7 +165,6 @@ bash ageofempiresIII.sh
 # Vamos aos Softwares de Windows no Linux:
 ###### Em construção...
 # Vamos aos Jogos Nativos:
-#
 ### Tibia - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.jpg)](https://telegra.ph/PlayOnGit-05-28)
