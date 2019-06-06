@@ -58,8 +58,8 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
-xdg-open ~/.jogos/scripts/run/dmc5-run.sh
+xdg-open ~/.jogos/wineprefixes/dmc-2013/drive_c/
+xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```
 #
 ### Warframe - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
