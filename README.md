@@ -1,5 +1,5 @@
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 05/06/2019
+##### Conteúdo atualizado em 06/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do 切 Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -16,6 +16,8 @@ reboot
 ```
 ### TERCEIRO. Certifique-se que o seu driver Vulkan está habilitado. Para plascas Nvídia, basta instalar o driver proprietário. Para placas RADEON da AMD, siga esse meu tutorial abaixo:
 https://github.com/felipefacundes/desktop/tree/master/amdgpu
+### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
+https://telegra.ph/Instale-o-Vulkan-na-sua-distribui%C3%A7%C3%A3o-Linux-06-06
 #
 # Vamos aos Jogos:
 
