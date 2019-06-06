@@ -17,7 +17,7 @@ reboot
 ### TERCEIRO. Certifique-se que o seu driver Vulkan está habilitado. Para plascas Nvídia, basta instalar o driver proprietário. Para placas RADEON da AMD, siga esse meu tutorial abaixo:
 https://github.com/felipefacundes/desktop/tree/master/amdgpu
 ### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
-https://telegra.ph/Instale-o-Vulkan-na-sua-distribui%C3%A7%C3%A3o-Linux-06-06
+https://github.com/felipefacundes/dicas
 #
 # Vamos aos Jogos:
 
