@@ -134,17 +134,11 @@ xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
 #
-### Albion Online MMORPG de fantasia medieval - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Albion Online MMORPG de fantasia medieval - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/albion.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/albion/drive_c/
-xdg-open ~/.jogos/scripts/run/albion-run.sh
-```
 #
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
