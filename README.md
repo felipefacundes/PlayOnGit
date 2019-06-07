@@ -1,5 +1,5 @@
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 06/06/2019
+##### Conteúdo atualizado em 07/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do 切 Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -72,6 +72,18 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
+```
+#
+### Albion Online MMORPG de fantasia medieval - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.jpg)](https://youtu.be/Lako69C_sw4)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/albion.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/albion/drive_c/
+xdg-open ~/.jogos/scripts/run/albion-run.sh
 ```
 #
 ### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
