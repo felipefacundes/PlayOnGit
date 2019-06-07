@@ -52,7 +52,7 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 #
 ### Devil May Cry (2013) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013-anuncio.png)](https://youtu.be/Lako69C_sw4)
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013.gif)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc-2013.sh)`
 
