@@ -76,7 +76,7 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 #
 ### Albion Online MMORPG de fantasia medieval - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.jpg)](https://youtu.be/Lako69C_sw4)
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/albion.sh)`
 
