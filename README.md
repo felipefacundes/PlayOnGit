@@ -134,12 +134,6 @@ xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
 #
-### Albion Online MMORPG de fantasia medieval - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://youtu.be/Lako69C_sw4)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/albion.sh)`
-#
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Minecraft-480.png)](https://telegra.ph/PlayOnGit-05-28)
@@ -147,12 +141,6 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 `Para rodar esse jogo você precisará do jre8-openjdk (OpenJDK 1.8) e java-openjfx`
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/minecraft.sh)`
-##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/minecraft.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open minecraft.sh`
-```bash
-bash minecraft.sh
-```
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/nativos/minecraft/
@@ -174,4 +162,10 @@ bash ageofempiresIII.sh
 [![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.jpg)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/tibia.sh)`
+#
+### Albion Online MMORPG de fantasia medieval - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://youtu.be/Lako69C_sw4)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/albion.sh)`
 
