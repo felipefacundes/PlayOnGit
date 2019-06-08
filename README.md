@@ -32,7 +32,7 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
-### Devil May Cry 5 (2019)- com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Devil May Cry 5 (2019) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc5.gif)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
@@ -70,7 +70,7 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 #
 ### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TheSims4](https://i1.ytimg.com/vi/7wr91-wgNfU/hqdefault.jpg)](https://telegra.ph/PlayOnGit-05-2)
+[![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013.gif)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
 `wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh`
 ##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TheSims4.sh`
