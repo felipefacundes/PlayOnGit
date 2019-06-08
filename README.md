@@ -7,8 +7,7 @@
 ###### Canal do YouTube: https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
 
-### PRIMEIRO. Aumente a performance com mais +50 de FPS - habilite o Esync.
-### SEGUNDO. Diminua a prioridade de SWAP e REINICIE o PC.
+### PRIMEIRO. Aumente a performance com mais +50 de FPS - habilite o Esync. SEGUNDO. Diminua a prioridade de SWAP e REINICIE o PC.
 ```bash
 su -c 'echo -e "* hard nofile 1048576" >> /etc/security/limits.conf'
 su -c 'echo -e "vm.swappiness=0" > /etc/sysctl.conf'
@@ -18,7 +17,8 @@ reboot
 https://github.com/felipefacundes/desktop/tree/master/amdgpu
 ### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
 https://github.com/felipefacundes/dicas
-#
+
+===
 # Vamos aos Jogos:
 
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
