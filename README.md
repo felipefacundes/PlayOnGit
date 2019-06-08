@@ -73,15 +73,6 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 [![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
 `wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open TheSims4.sh`
-```bash
-bash TheSims4.sh
-```
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
-xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
-```
 #
 ### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
