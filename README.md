@@ -117,21 +117,15 @@ xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
 ```
 #
-### Teste BETA do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+### GTA SA com MTA e SA-MP - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
+[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/gtasamta.gif)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
-##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open Origin.sh`
-```bash
-bash Origin.sh
-```
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/gtasamta.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
-xdg-open ~/.jogos/scripts/run/Origin-run.sh
+xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
+xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 ```
 #
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
@@ -145,6 +139,23 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```bash
 xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
+```
+#
+### Teste BETA do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
+##### Ou instale manualmente:
+`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh`
+##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open Origin.sh`
+```bash
+bash Origin.sh
+```
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
+xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
 #
 ### Age Of Empires III - Veja primeiro o tutorial no YouTube:
