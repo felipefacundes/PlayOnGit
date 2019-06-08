@@ -128,8 +128,6 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 [![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/origens.jpg)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
-##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
