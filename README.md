@@ -18,7 +18,7 @@ https://github.com/felipefacundes/desktop/tree/master/amdgpu
 ### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
 https://github.com/felipefacundes/dicas
 
-===
+[![Vamos_aos_Jogos](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/vamos_aos_jogos.gif)](https://telegra.ph/PlayOnGit-05-2)
 # Vamos aos Jogos:
 
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
