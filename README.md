@@ -18,7 +18,7 @@ https://github.com/felipefacundes/desktop/tree/master/amdgpu
 ### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
 https://github.com/felipefacundes/dicas
 
-[![Vamos_aos_Jogos](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/vamos_aos_jogos.gif)](https://telegra.ph/PlayOnGit-06-08)
+[![Vamos_aos_Jogos](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/vamos_aos_jogos.gif)](https://medium.com/@felipe.facundes/playongit-d3f54cb99f93)
 # Vamos aos Jogos:
 
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
@@ -34,7 +34,7 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 #
 ### Devil May Cry 5 (2019) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc5.gif)](https://youtu.be/Lako69C_sw4)
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc5.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc5.sh)`
 
@@ -46,7 +46,7 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 #
 ### Devil May Cry (2013) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013.gif)](https://youtu.be/Lako69C_sw4)
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/dmc-2013.sh)`
 
@@ -58,7 +58,7 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 #
 ### Warframe - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.gif)](https://telegra.ph/PlayOnGit-05-2)
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/warframe.sh)`
 
@@ -70,7 +70,7 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 #
 ### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://telegra.ph/PlayOnGit-05-2)
+[![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
 ```
 wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh
@@ -79,7 +79,7 @@ bash TheSims4.sh
 #
 ### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TDKC.gif)](https://telegra.ph/PlayOnGit-05-2)
+[![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TDKC.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TDKC.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -90,7 +90,7 @@ xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 #
 ### Steam Windows para Jogos do Windows via Steam - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.gif)](https://telegra.ph/PlayOnGit-05-2)
+[![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/steam.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -101,7 +101,7 @@ xdg-open ~/.jogos/scripts/run/steam-run.sh
 #
 ### GTA SA - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/gtasamta.gif)](https://telegra.ph/PlayOnGit-05-28)
+[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/gtasamta.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/gtasamta.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -112,7 +112,7 @@ xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 #
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/minecraft.gif)](https://telegra.ph/PlayOnGit-05-28)
+[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/minecraft.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Dependências:
 `Para rodar esse jogo você precisará do jre8-openjdk (OpenJDK 1.8) e java-openjfx`
 ##### Instalar automaticamente:
@@ -125,7 +125,7 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 #
 ### Teste BETA do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Origin.gif)](https://telegra.ph/PlayOnGit-05-28)
+[![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Origin.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -146,13 +146,13 @@ bash ageofempiresIII.sh
 # Vamos aos Jogos Nativos:
 ### Tibia - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.gif)](https://telegra.ph/PlayOnGit-05-28)
+[![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/tibia.sh)`
 #
 ### Albion Online MMORPG de fantasia medieval - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://youtu.be/Lako69C_sw4)
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://medium.com/@felipe.facundes/tutorial-em-breve-c98a245ee995)
 ##### Dependências necessárias:
 `flatpak sld sld2 qt5-webengine sndio`
 ##### Instale via flatpak:
