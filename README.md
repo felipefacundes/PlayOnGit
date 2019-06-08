@@ -72,7 +72,10 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh`
+```
+wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh
+bash TheSims4.sh
+```
 #
 ### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -90,12 +93,6 @@ xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 [![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.png)](https://telegra.ph/PlayOnGit-05-2)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/steam.sh)`
-##### Ou instale manualmente:
-`wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/steam.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open steam.sh`
-```bash
-bash steam.sh
-```
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/wineprefixes/steam/drive_c/
