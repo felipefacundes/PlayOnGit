@@ -1,9 +1,9 @@
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 07/06/2019
+##### Conteúdo atualizado em 08/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
-###### Grupo do 切 Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
-###### Canal do 切 Telegram 切: https://t.me/PlayOnGit
+###### Grupo do Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
+###### Canal do Telegram 切: https://t.me/PlayOnGit
 ###### Canal do YouTube: https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
 
