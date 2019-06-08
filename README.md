@@ -151,7 +151,7 @@ bash ageofempiresIII.sh
 # Vamos aos Jogos Nativos:
 ### Tibia - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.jpg)](https://telegra.ph/PlayOnGit-05-28)
+[![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.gif)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/tibia.sh)`
 #
