@@ -111,7 +111,7 @@ xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
 ```
 #
-### GTA SA com MTA e SA-MP - Veja primeiro o tutorial no Youtube:
+### GTA SA - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/gtasamta.gif)](https://telegra.ph/PlayOnGit-05-28)
 ##### Instalar automaticamente:
