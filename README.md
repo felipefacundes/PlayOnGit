@@ -171,6 +171,12 @@ bash ageofempiresIII.sh
 ### Albion Online MMORPG de fantasia medieval - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://youtu.be/Lako69C_sw4)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/albion.sh)`
+##### Dependências necessárias:
+`flatpak sld sld2 qt5-webengine sndio`
+##### Instale via flatpak:
+```
+flatpak install flathub com.albiononline.AlbionOnline
+
+flatpak run com.albiononline.AlbionOnline
+```
 
