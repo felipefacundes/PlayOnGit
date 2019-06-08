@@ -115,7 +115,7 @@ xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 #
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Minecraft-480.png)](https://telegra.ph/PlayOnGit-05-28)
+[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/minecraft.gif)](https://telegra.ph/PlayOnGit-05-28)
 ##### Dependências:
 `Para rodar esse jogo você precisará do jre8-openjdk (OpenJDK 1.8) e java-openjfx`
 ##### Instalar automaticamente:
@@ -133,10 +133,6 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh)`
 ##### Ou instale manualmente:
 `wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Origin.sh`
-##### Veja o vídeo, caso queira alterar o caminho do instalador do jogo: `xdg-open Origin.sh`
-```bash
-bash Origin.sh
-```
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
