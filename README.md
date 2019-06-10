@@ -117,6 +117,8 @@ xdg-open ~/.jogos/scripts/run/steam-run.sh
 ### FlatOut 2 com GameRanger - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Dependência:
+Para rodar esse jogo você precisará do `file-roller`
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/flatout2.sh)`
 ###### Opcional para quem quiser fazer alterações:
