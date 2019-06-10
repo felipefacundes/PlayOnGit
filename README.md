@@ -84,15 +84,6 @@ xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
-### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
-```
-wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh
-bash TheSims4.sh
-```
-#
 ### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -161,6 +152,15 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
+```
+#
+### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
+```
+wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh
+bash TheSims4.sh
 ```
 #
 ### Age Of Empires III - Veja primeiro o tutorial no YouTube:
