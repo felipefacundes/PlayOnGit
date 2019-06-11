@@ -23,7 +23,7 @@ https://github.com/felipefacundes/dicas
 # Vamos aos Jogos:
 
 A instalação dos Jogos, é um processo **super simples**. Porém, mesmo assim, algumas pessoas precisam de alguma orientação, talvez essa pessoa possa ser você. Para aprender a ![instalar qualquer jogo do PlayOnGit: clique Aqui!](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-[![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalacao.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
+[![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 #
 ### GTA V - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
