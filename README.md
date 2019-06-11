@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/PlayOnGit2.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 10/06/2019
+##### Conteúdo atualizado em 11/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -70,7 +70,19 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
-### Teste BETA (não funciona corretamente ainda)- Creative Destruction Battle Royale - Veja primeiro o tutorial no YouTube:
+### Eve Online - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/eve-online.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/eve-online.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
+xdg-open ~/.jogos/scripts/run/eve-online-run.sh
+```
+#
+### Teste BETA (não funciona corretamente ainda) - Creative Destruction Battle Royale - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
