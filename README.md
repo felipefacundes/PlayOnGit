@@ -70,7 +70,7 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
-### Creative Destruction Battle Royale - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Teste BETA (não funciona corretamente ainda)- Creative Destruction Battle Royale - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -141,7 +141,7 @@ xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```
 #
-### Teste BETA do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+### Teste BETA (não funciona corretamente ainda) do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Origin.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
