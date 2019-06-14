@@ -140,6 +140,28 @@ xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
 xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 ```
 #
+### Spore (Controle a evolução de uma espécie) - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Spore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/spore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/spore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/spore/drive_c/
+xdg-open ~/.jogos/scripts/run/spore-run.sh
+```
+#
+### Sonic The Hedgehog 4 - Episode 2 - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Spore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/sth4e2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/sth4e2.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
+xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
+```
+#
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/minecraft.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
