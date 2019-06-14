@@ -116,17 +116,6 @@ xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
 ```
 #
-### FlatOut 2 com GameRanger - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/flatout2.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/flatout2/drive_c/
-xdg-open ~/.jogos/scripts/run/flatout2-run.sh
-```
-#
 ### Sonic The Hedgehog 4 - Episode 2 - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Sonic The H4 E2](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -158,6 +147,17 @@ xdg-open ~/.jogos/scripts/run/spore-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
 xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
+```
+#
+### FlatOut 2 com GameRanger - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/flatout2.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/flatout2/drive_c/
+xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ```
 #
 ### Minecraft Windows - Veja primeiro o tutorial no Youtube:
