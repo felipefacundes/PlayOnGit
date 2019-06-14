@@ -138,7 +138,7 @@ xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
 xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
-### Spore (Controle a evolução de uma espécie) - Veja primeiro o tutorial no Youtube:
+### Spore (controle a evolução de uma espécie) - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Spore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/spore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
