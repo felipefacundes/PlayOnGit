@@ -188,17 +188,22 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
-```
-wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh
-bash TheSims4.sh
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TheSims4.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
+xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```
 #
 ### Age Of Empires III - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/ageofempires3.gif)](https://www.youtube.com/watch?v=Di8j04UFY4c)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh)`
+###### Opcional para quem quiser fazer alterações:
 ```bash
-wget https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ageofempiresIII.sh
-bash ageofempiresIII.sh
+xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
+xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 ```
 #
 ### Open Sonic - Veja primeiro o tutorial no YouTube:
