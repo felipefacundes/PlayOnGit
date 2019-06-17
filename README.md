@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/PlayOnGit2.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 16/06/2019
+##### Conteúdo atualizado em 17/06/2019
 #### Inicie seus Jogos direto do menu iniciar, sem precisar de PlayOnLinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -194,6 +194,17 @@ xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ```bash
 xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
+```
+#
+### Teste BETA (não funciona corretamente ainda) do EpicGamesStore - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
 ### Teste BETA (não funciona corretamente ainda) do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
