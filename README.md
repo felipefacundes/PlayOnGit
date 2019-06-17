@@ -196,9 +196,9 @@ xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```
 #
-### Teste BETA (não funciona corretamente ainda) do EpicGamesStore - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+### EpicGamesStore - Teste BETA (não funciona corretamente ainda)  - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
