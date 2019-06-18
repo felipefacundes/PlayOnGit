@@ -117,7 +117,7 @@ xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
-### Play League of Legends now - Veja primeiro o tutorial no YouTube:
+### LoL - League of Legends - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
