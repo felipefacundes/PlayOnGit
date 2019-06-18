@@ -117,6 +117,17 @@ xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
+### Play League of Legends now - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/LoL.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.wine-appimage-lol/drive_c
+xdg-open ~/.jogos/scripts/run/LoL-run.sh
+```
+#
 ### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
