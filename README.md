@@ -69,6 +69,18 @@ xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
 #
+### Grid 2 - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/grid2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/grid2.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/grid2/drive_c/
+xdg-open ~/.jogos/scripts/run/grid2-run.sh
+```
+#
 ### Sonic All Star Racing Transformed - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
