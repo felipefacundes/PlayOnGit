@@ -69,7 +69,7 @@ xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
 #
-### Grid 2 - Veja primeiro o tutorial no YouTube:
+### Grid 2 - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/grid2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
