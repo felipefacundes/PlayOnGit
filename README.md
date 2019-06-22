@@ -15,7 +15,8 @@ su -c 'echo -e "vm.swappiness=0" > /etc/sysctl.conf'
 reboot
 ```
 ### TERCEIRO. Certifique-se que o seu driver Vulkan está habilitado. Para plascas Nvídia, basta instalar o driver proprietário. Para placas RADEON da AMD, siga esse meu tutorial abaixo:
-https://github.com/felipefacundes/desktop/tree/master/amdgpu
+https://amdgpu.github.io/
+
 ### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
 https://github.com/felipefacundes/dicas
 
