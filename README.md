@@ -24,8 +24,8 @@ https://github.com/felipefacundes/dicas
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 #
-## GTA V 
-### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### GTA V 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/gtav.gif)](https://youtu.be/Lako69C_sw4)
 ##### Instalar automaticamente:
@@ -36,7 +36,8 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
-### Devil May Cry 5 (2019) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Devil May Cry 5 (2019) 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
