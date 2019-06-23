@@ -49,7 +49,8 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
-### Devil May Cry (2013) - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Devil May Cry (2013) 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/dmc-2013.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -61,7 +62,8 @@ xdg-open ~/.jogos/wineprefixes/dmc-2013/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```
 #
-### GOG Galaxy (GOG Store) a loja da GOG - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### GOG Galaxy (GOG Store) a loja da GOG 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -72,7 +74,8 @@ xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
 #
-### Grid 2 - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Grid 2 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/grid2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -84,7 +87,8 @@ xdg-open ~/.jogos/wineprefixes/grid2/drive_c/
 xdg-open ~/.jogos/scripts/run/grid2-run.sh
 ```
 #
-### Sonic All Star Racing Transformed - Veja primeiro o tutorial no YouTube:
+### Sonic All Star Racing Transformed 
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -96,7 +100,8 @@ xdg-open ~/.jogos/wineprefixes/SASRT/drive_c/
 xdg-open ~/.jogos/scripts/run/SASRT-run.sh
 ```
 #
-### Warframe - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Warframe 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -108,7 +113,8 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
-### Eve Online - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Eve Online 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/eve-online.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -120,7 +126,8 @@ xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
 xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```
 #
-### Teste BETA (não funciona corretamente ainda) - Creative Destruction Battle Royale - Veja primeiro o tutorial no YouTube:
+### Teste BETA (não funciona corretamente ainda) - Creative Destruction Battle Royale 
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -132,7 +139,8 @@ xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
-### LoL - League of Legends - Veja primeiro o tutorial no YouTube:
+### LoL - League of Legends 
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -143,7 +151,8 @@ xdg-open ~/.wine-appimage-lol/drive_c
 xdg-open ~/.jogos/scripts/run/LoL-run.sh
 ```
 #
-### A Tribute a Donkey Kong Country  - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### A Tribute a Donkey Kong Country  
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -154,7 +163,8 @@ xdg-open ~/.jogos/wineprefixes/TDKC/drive_c/
 xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 ```
 #
-### Steam Windows para Jogos do Windows via Steam - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### Steam Windows para Jogos do Windows via Steam 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/steam.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -165,7 +175,8 @@ xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
 ```
 #
-### Sonic The Hedgehog 4 - Episode 2 - Veja primeiro o tutorial no Youtube:
+### Sonic The Hedgehog 4 - Episode 2 
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Sonic The H4 E2](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -176,7 +187,8 @@ xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
 xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
-### Spore (controle a evolução de uma espécie) - Veja primeiro o tutorial no Youtube:
+### Spore (controle a evolução de uma espécie) 
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Spore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/spore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -187,7 +199,8 @@ xdg-open ~/.jogos/wineprefixes/spore/drive_c/
 xdg-open ~/.jogos/scripts/run/spore-run.sh
 ```
 #
-### GTA SA - Veja primeiro o tutorial no Youtube:
+### GTA SA 
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/gtasamta.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -198,7 +211,8 @@ xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
 xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 ```
 #
-### FlatOut 2 com GameRanger - Veja primeiro o tutorial no Youtube:
+### FlatOut 2 com GameRanger 
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -209,7 +223,8 @@ xdg-open ~/.jogos/wineprefixes/flatout2/drive_c/
 xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ```
 #
-### Minecraft Windows - Veja primeiro o tutorial no Youtube:
+### Minecraft Windows 
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/minecraft.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Dependências:
@@ -222,7 +237,8 @@ xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```
 #
-### EpicGamesStore - Teste BETA (não funciona corretamente ainda)  - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+### EpicGamesStore - Teste BETA (não funciona corretamente ainda)  
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -233,7 +249,8 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Teste BETA (não funciona corretamente ainda) do Origin - com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+### Teste BETA (não funciona corretamente ainda) do Origin 
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Origin.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -244,7 +261,8 @@ xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
 #
-### The Sims 4 OFFLINE - com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+### The Sims 4 OFFLINE 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TheSims4](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
@@ -255,7 +273,8 @@ xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
 xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```
 #
-### Age Of Empires III - Veja primeiro o tutorial no YouTube:
+### Age Of Empires III 
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/ageofempires3.gif)](https://www.youtube.com/watch?v=Di8j04UFY4c)
 ##### Instalar automaticamente:
@@ -266,7 +285,8 @@ xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
 xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 ```
 #
-### Open Sonic - Veja primeiro o tutorial no YouTube:
+### Open Sonic 
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/opensonic.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -279,14 +299,17 @@ xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 ```
 # Vamos aos Softwares de Windows no Linux:
 ###### Em construção...
+
 # Vamos aos Jogos Nativos:
-### Tibia - Veja primeiro o tutorial no Youtube:
+### Tibia 
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Tibia](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/tibia.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/nativos/tibia.sh)`
 #
-### Albion Online MMORPG de fantasia medieval - Veja primeiro o tutorial no YouTube:
+### Albion Online MMORPG de fantasia medieval 
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Dependências necessárias:
