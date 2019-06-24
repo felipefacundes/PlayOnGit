@@ -24,6 +24,18 @@ https://github.com/felipefacundes/dicas
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 #
+### EpicGamesStore - lançamento em 24-06-2019
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+```
+#
 ### GTA V 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -247,18 +259,6 @@ xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ```bash
 xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
-```
-#
-### EpicGamesStore - Teste BETA (não funciona corretamente ainda)  
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
 ### Teste BETA (não funciona corretamente ainda) do Origin 
