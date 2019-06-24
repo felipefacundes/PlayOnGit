@@ -49,6 +49,18 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
+### Borderlands: The Pre-Sequel
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Borderlands.The.Pre.Sequel.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Borderlands.The.Pre.Sequel.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Borderlands.The.Pre.Sequel/drive_c/
+xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
+```
+#
 ### Devil May Cry (2013) 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
