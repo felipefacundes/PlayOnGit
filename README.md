@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/PlayOnGit2.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 24/06/2019
+##### Conteúdo atualizado em 26/06/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -108,6 +108,18 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
+```
+#
+### F1 2016 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Steam](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/F1-2016.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/steam.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/F1-2016/drive_c/
+xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
 ```
 #
 ### Grid 2 
@@ -297,7 +309,7 @@ xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
 xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```
 #
-### Age Of Empires III 
+### Age Of Empires III - Rev. 26/06/2019
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/ageofempires3.gif)](https://www.youtube.com/watch?v=Di8j04UFY4c)
