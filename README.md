@@ -135,6 +135,19 @@ xdg-open ~/.jogos/wineprefixes/grid2/drive_c/
 xdg-open ~/.jogos/scripts/run/grid2-run.sh
 ```
 #
+### Kabounce
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Kabounce.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Kabounce.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Kabounce/drive_c/
+xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
+```
+#
 ### Sonic All Star Racing Transformed 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
