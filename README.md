@@ -23,7 +23,7 @@ https://github.com/felipefacundes/dicas
 [![Vamos_aos_Jogos](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/vamos_aos_jogos.gif)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 31 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 32 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
@@ -383,6 +383,19 @@ xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/opensonic/drive_c/
 xdg-open ~/.jogos/scripts/run/opensonic-run.sh
+```
+#
+### PCSX2 - Emulador de PlayStation 2
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/warframe.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/PCSX2.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/PCSX2/drive_c/
+xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ```
 # Vamos aos Softwares de Windows no Linux:
 ###### Em construção...
