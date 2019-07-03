@@ -385,6 +385,19 @@ xdg-open ~/.jogos/wineprefixes/opensonic/drive_c/
 xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 ```
 #
+### Victoria II
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/VictoriaII.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/VictoriaII.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/VictoriaII/drive_c/
+xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
+```
+#
 ### PCSX2 - Emulador de PlayStation 2
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
