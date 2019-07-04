@@ -23,7 +23,7 @@ https://github.com/felipefacundes/dicas
 [![Vamos_aos_Jogos](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/vamos_aos_jogos.gif)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 33 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 34 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
@@ -111,10 +111,22 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
+### Rocket League
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Rocket League](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/RocketLeague.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/RocketLeague.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RocketLeague/drive_c/
+xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
+```
+#
 ### Borderlands: The Pre-Sequel
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GTA V](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Borderlands.The.Pre.Sequel.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Borderlands: The Pre-Sequel](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Borderlands.The.Pre.Sequel.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Borderlands.The.Pre.Sequel.sh)`
 ###### Opcional para quem quiser fazer alterações:
