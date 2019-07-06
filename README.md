@@ -8,19 +8,8 @@
 ###### Canal do YouTube: https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
 
-### PRIMEIRO. Aumente a performance com mais +50 de FPS - habilite o Esync. SEGUNDO. Diminua a prioridade de SWAP e REINICIE o PC.
-```bash
-su -c 'echo -e "* hard nofile 1048576" >> /etc/security/limits.conf'
-su -c 'echo -e "vm.swappiness=0" > /etc/sysctl.conf'
-reboot
-```
-### TERCEIRO. Certifique-se que o seu driver Vulkan está habilitado. Para plascas Nvídia, basta instalar o driver proprietário. Para placas RADEON da AMD, siga esse meu tutorial abaixo:
-https://amdgpu.github.io/
-
-### QUARTO. Além de estar habilitado, como já relatado acima, igualmente é necessário ter o driver Vulkan instalado. Basta instalar o driver, siga esse meu tutorial abaixo:
-https://github.com/felipefacundes/dicas
-
-[![Vamos_aos_Jogos](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/vamos_aos_jogos.gif)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
+### LEIA! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique aqui para ler mais.
+Link, em breve.
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 35 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
