@@ -8,8 +8,8 @@
 ###### Canal do YouTube: https://www.youtube.com/channel/UCfssKpnkpyUC4sedaZd6N3g
 ##### Licença: GPLv3
 
-### LEIA! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique aqui para ler mais.
-Link, em breve.
+### LEIA! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique ![aqui](https://github.com/felipefacundes/dicas/blob/master/README.md) para ![ler](https://github.com/felipefacundes/dicas/blob/master/README.md) mais.
+
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 35 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
