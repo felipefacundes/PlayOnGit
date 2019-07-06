@@ -198,6 +198,19 @@ xdg-open ~/.jogos/wineprefixes/Kabounce/drive_c/
 xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
 ```
 #
+### Saints Row IV
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![SASRT](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/SRIV.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/SRIV.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/SRIV/drive_c/
+xdg-open ~/.jogos/scripts/run/SRIV-run.sh
+```
+#
 ### Sonic All Star Racing Transformed 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
