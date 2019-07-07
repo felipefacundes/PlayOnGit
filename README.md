@@ -415,7 +415,7 @@ xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 ### Counter Strike 1.6
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/cs16.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Counter Strike 1.6](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/cs16.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/cs16.sh)`
 
