@@ -5,7 +5,7 @@
 ###### Criado por Felipe Facundes
 ###### Grupo do Telegram 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
 ###### Canal do Telegram 切: https://t.me/PlayOnGit
-###### Canal do [![Youtube](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/VortexOnline.gif)](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ): https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ
+###### Canal do ![Youtube](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ): https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ
 ##### Licença: GPLv3
 
 ### ![LEIA](https://github.com/felipefacundes/dicas/blob/master/README.md)! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique ![aqui](https://github.com/felipefacundes/dicas/blob/master/README.md) para ![ler](https://github.com/felipefacundes/dicas/blob/master/README.md) mais.
