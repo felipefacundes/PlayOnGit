@@ -30,7 +30,7 @@ xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 ### Sekiro Shadows Die Twice
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Sekiro.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Sekiro](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Sekiro.gif)](https://www.youtube.com/watch?v=a0dH3qPE7tE)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/Sekiro.sh)`
 ###### Opcional para quem quiser fazer alterações:
