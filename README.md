@@ -301,7 +301,7 @@ xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 ```
 #
 ### Origin 
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+#### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Origin](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Origin.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
