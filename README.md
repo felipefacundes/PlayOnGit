@@ -39,6 +39,18 @@ xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ```
 #
+### The Witcher 3: Wild Hunt
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TW3.gif)](https://youtu.be/VRq6L7yn4Vo)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TW3.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
+xdg-open ~/.jogos/scripts/run/TW3-run.sh
+```
+#
 ### Last Day Of June - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -159,18 +171,6 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
-```
-#
-### The Witcher 3: Wild Hunt
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/TW3.gif)](https://youtu.be/VRq6L7yn4Vo)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/TW3.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
-xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ```
 #
 ### F1 2016 
