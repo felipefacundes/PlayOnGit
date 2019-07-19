@@ -54,7 +54,7 @@ xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ### Last Day Of June - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/LastDayOfJune.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/LastDayOfJune.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -66,7 +66,7 @@ xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 ### City Of Brass - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/CityOfBrass.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -78,7 +78,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ### Overcooked - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Overcooked.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Overcooked.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -90,7 +90,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ### EpicGamesStore - lançamento em 24-06-2019
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
