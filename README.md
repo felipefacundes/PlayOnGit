@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/PlayOnGit3.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 17/07/2019
+##### Conteúdo atualizado em 19/07/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do ![Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
