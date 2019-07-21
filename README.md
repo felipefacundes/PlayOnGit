@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/PlayOnGit3.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 19/07/2019
+##### Conteúdo atualizado em 21/07/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do ![Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -18,7 +18,7 @@
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/VortexOnline.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/VortexOnline.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/VortexOnline.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -49,6 +49,18 @@ xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
 xdg-open ~/.jogos/scripts/run/TW3-run.sh
+```
+#
+### Unreal Tournament 2019
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/UnrealTournament2019.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
 ### Last Day Of June - EpicGamesStore
@@ -91,6 +103,18 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/EpicGamesStore.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+```
+#
+### Limbo
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Limbo](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Limbo.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
