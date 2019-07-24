@@ -485,19 +485,6 @@ xdg-open ~/.jogos/scripts/run/cs16-run.sh
 xdg-open ~/.jogos/wineprefixes/PCSX2/drive_c/
 xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ```
-# Vamos aos Softwares de Windows no Linux:
-### iFood - Gestor de Pedidos
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/ifood.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/ifood.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/ifood/drive_c/
-xdg-open ~/.jogos/scripts/run/ifood-run.sh
-```
 # Vamos aos Jogos Nativos:
 ### Tibia 
 #### Veja primeiro o tutorial no Youtube:
