@@ -14,18 +14,6 @@
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 40 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
-### Nier Automata
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Nier-Automata.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/NieR-Automata.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
-xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
-```
-#
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
 #### Veja primeiro o tutorial no Youtube:
@@ -49,6 +37,18 @@ xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
+```
+#
+### Nier Automata
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Nier-Automata.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/NieR-Automata.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
+xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 ```
 #
 ### The Witcher 3: Wild Hunt
