@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/PlayOnGit3.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 21/07/2019
+##### Conteúdo atualizado em 29/07/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do ![Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -13,6 +13,18 @@
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 40 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+#
+### Nier Automata
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Nier-Automata.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/NieR-Automata.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
+xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
+```
 #
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
