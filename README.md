@@ -42,7 +42,7 @@ xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ### Nier Automata
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Nier-Automata.gif)](https://youtu.be/7RVlwzYiwc0)
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/desktop/master/wine-jogos/NieR-Automata.sh)`
 ###### Opcional para quem quiser fazer alterações:
