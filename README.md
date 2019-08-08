@@ -3,13 +3,13 @@
 ##### Conteúdo atualizado em 29/07/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
-###### Grupo do ![Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
-###### Canal do ![Telegram](https://t.me/PlayOnGit) 切: https://t.me/PlayOnGit
-###### ![Canal](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ) do ![Youtube](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ): https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ
+###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
+###### Canal do [Telegram](https://t.me/PlayOnGit) 切: https://t.me/PlayOnGit
+###### [Canal](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ) do [Youtube](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ): https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ
 ###### [Site](https://linuxgamers.github.io) : https://linuxgamers.github.io/
 ##### Licença: GPLv3
 
-### ![LEIA](https://github.com/felipefacundes/dicas/blob/master/README.md)! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique ![aqui](https://github.com/felipefacundes/dicas/blob/master/README.md) para ![ler](https://github.com/felipefacundes/dicas/blob/master/README.md) mais.
+### [LEIA](https://github.com/felipefacundes/dicas/blob/master/README.md)! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique [aqui](https://github.com/felipefacundes/dicas/blob/master/README.md) para [ler](https://github.com/felipefacundes/dicas/blob/master/README.md) mais.
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
