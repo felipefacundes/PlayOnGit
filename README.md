@@ -39,7 +39,7 @@ xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ```
 #
-### Nier Automata
+### NieR Automata
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
 [![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
