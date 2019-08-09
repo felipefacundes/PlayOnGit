@@ -1,4 +1,4 @@
-[![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit3.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
+[![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
 ##### Conteúdo atualizado em 29/07/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
