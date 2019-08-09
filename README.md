@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 29/07/2019
+##### Conteúdo atualizado em 09/08/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -335,6 +335,18 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```bash
 xdg-open ~/.wine-appimage-lol/drive_c
 xdg-open ~/.jogos/scripts/run/LoL-run.sh
+```
+### Planet Coaster
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlanetCoaster.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PlanetCoaster.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
+xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```
 #
 ### A Tribute a Donkey Kong Country  
