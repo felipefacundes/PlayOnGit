@@ -124,6 +124,18 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
+### Mutant Year Zero Road to Eden
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MutantYearZero.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+```
+#
 ### EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -383,18 +395,6 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
-```
-#
-### Sonic The Hedgehog 4 - Episode 2 
-#### Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Sonic The H4 E2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/sth4e2.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
-xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
 ### Spore (controle a evolução de uma espécie) 
