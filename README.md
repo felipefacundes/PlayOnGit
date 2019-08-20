@@ -124,7 +124,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Mutant Year Zero Road to Eden
+### Mutant Year Zero Road to Eden - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MutantYearZero.gif)](https://youtu.be/rhoI0E1cp5Y)
