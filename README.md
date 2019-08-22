@@ -163,7 +163,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ### GTA V 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GTA V](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtav.gif)](https://youtu.be/Lako69C_sw4)
+[![GTA V](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtav.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GTAV.sh)`
 ###### Opcional para quem quiser fazer alterações:
