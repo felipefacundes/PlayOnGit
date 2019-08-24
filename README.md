@@ -13,7 +13,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 44 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 45 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
@@ -521,6 +521,19 @@ xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/cs16/drive_c/
 xdg-open ~/.jogos/scripts/run/cs16-run.sh
+```
+#
+### CEMU - Emulador de Nintendo Wii U
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CEMU.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CEMU.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CEMU/drive_c/
+xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 ```
 #
 ### PCSX2 - Emulador de PlayStation 2
