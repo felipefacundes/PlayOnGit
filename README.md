@@ -475,7 +475,7 @@ xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ### Age Of Empires III - Rev. 26/06/2019
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ageofempires3.gif)](https://www.youtube.com/watch?v=Di8j04UFY4c)
+[![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ageofempires3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ageofempiresIII.sh)`
 ###### Opcional para quem quiser fazer alterações:
