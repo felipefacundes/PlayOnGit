@@ -13,7 +13,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 45 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 46 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
@@ -26,6 +26,18 @@
 ```bash
 xdg-open ~/.jogos/wineprefixes/VortexOnline/drive_c/
 xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
+```
+#
+### Rage 2
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Sekiro](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/rage2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/rage2.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/rage2/drive_c/
+xdg-open ~/.jogos/scripts/run/rage2-run.sh
 ```
 #
 ### Sekiro Shadows Die Twice
