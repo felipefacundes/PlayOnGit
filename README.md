@@ -15,6 +15,18 @@
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 46 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
+#
+### Control - EpicGamesStore
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/control.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/control.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/control/drive_c/
+xdg-open ~/.jogos/scripts/run/control-run.sh
+```
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
 #### Veja primeiro o tutorial no Youtube:
@@ -420,6 +432,18 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
+```
+#
+### Steam Light Windows para Jogos do Windows via Steam (OpenGL) 
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Steam](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/steam.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/steam-light.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/steam-light/drive_c/
+xdg-open ~/.jogos/scripts/run/steam-light-run.sh
 ```
 #
 ### Spore (controle a evolução de uma espécie) 
