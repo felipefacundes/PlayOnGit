@@ -13,7 +13,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 46 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 47 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 #
 ### Control - EpicGamesStore
