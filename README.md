@@ -584,6 +584,19 @@ xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 xdg-open ~/.jogos/wineprefixes/PCSX2/drive_c/
 xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ```
+#
+### PS1 - Emuladores de PlayStation 1 (ePSXe/PSX)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PS1.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PS1.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/PS1/drive_c/
+xdg-open ~/.jogos/scripts/run/PS1-run.sh
+```
 # Vamos aos Jogos Nativos:
 ### Tibia 
 #### Veja primeiro o tutorial no Youtube:
