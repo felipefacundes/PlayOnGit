@@ -1,6 +1,6 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-##### Conteúdo atualizado em 18/09/2019
+##### Conteúdo atualizado em 29/09/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -13,7 +13,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 47 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 48 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 #
 ### Control - EpicGamesStore
@@ -557,6 +557,19 @@ xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/cs16/drive_c/
 xdg-open ~/.jogos/scripts/run/cs16-run.sh
+```
+#
+### YUZU - Emulador de Nintendo Switch
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/yuzu.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/yuzu.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/yuzu/drive_c/
+xdg-open ~/.jogos/scripts/run/yuzu-run.sh
 ```
 #
 ### CEMU - Emulador de Nintendo Wii U
