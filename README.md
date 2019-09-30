@@ -559,6 +559,19 @@ xdg-open ~/.jogos/wineprefixes/cs16/drive_c/
 xdg-open ~/.jogos/scripts/run/cs16-run.sh
 ```
 #
+### Mega Man X5
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Counter Strike 1.6](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MMX5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MMX5.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/MMX5/drive_c/
+xdg-open ~/.jogos/scripts/run/MMX5-run.sh
+```
+#
 ### YUZU - Emulador de Nintendo Switch
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
