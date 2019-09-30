@@ -562,9 +562,9 @@ xdg-open ~/.jogos/scripts/run/cs16-run.sh
 ### Mega Man X5
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Counter Strike 1.6](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MMX5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Counter Strike 1.6](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MM-X5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MM-X5.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MMX5.sh)`
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
