@@ -1,8 +1,8 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-**English** [![PlayOnGit English](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States_64.png](https://github.com/felipefacundes/PlayOnGit-en)
+[![PlayOnGit English](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States_64.png](https://github.com/felipefacundes/PlayOnGit-en)
 #
-**Enpanol** [![PlayOnGit Spanish](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States_64.png](https://github.com/felipefacundes/PlayOnGit-en)
+[![PlayOnGit Spanish](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States_64.png](https://github.com/felipefacundes/PlayOnGit-en)
 ##### Conteúdo atualizado em 04/11/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
@@ -17,7 +17,6 @@
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 48 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
-#
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
