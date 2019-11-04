@@ -1,10 +1,7 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-<a href="url"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" align="left" height="48" width="48" ></a>
-#
-
-<a href="url"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" align="left" height="48" width="48" ></a>
-
+##### English <a href="url"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" alt="English" align="left" height="48" width="48" ></a>
+##### Espanol <a href="url"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" alt="Spanish" align="left" height="48" width="48" ></a>
 #
 ##### Conteúdo atualizado em 04/11/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
