@@ -1,7 +1,8 @@
 [![PlayOnGit](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlayOnGit.png)](https://github.com/felipefacundes/dicas/blob/master/PlayOnGit.md)
 # PlayOnGit 🕹
-[English](https://github.com/felipefacundes/PlayOnGit-en) <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a>
-[Espanol](https://github.com/felipefacundes/PlayOnGit-es) <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a>
+ <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
+#
+ <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
 ##### Conteúdo atualizado em 04/11/2019
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
