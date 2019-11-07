@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 48 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 49 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -611,6 +611,19 @@ xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/PS1/drive_c/
 xdg-open ~/.jogos/scripts/run/PS1-run.sh
+```
+# Vamos aos Programas de Windows:
+### FL Studio - estação de trabalho de áudio digital
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flstudio-test.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/flstudio.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/flstudio/drive_c/
+xdg-open ~/.jogos/scripts/run/flstudio-run.sh
 ```
 # Vamos aos Jogos Nativos:
 ### Tibia 
