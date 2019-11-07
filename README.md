@@ -616,7 +616,7 @@ xdg-open ~/.jogos/scripts/run/PS1-run.sh
 ### FL Studio - estação de trabalho de áudio digital
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flstudio-test.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flstudio.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/flstudio.sh)`
 
