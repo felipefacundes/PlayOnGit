@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 49 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 50 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -29,6 +29,19 @@
 xdg-open ~/.jogos/wineprefixes/control/drive_c/
 xdg-open ~/.jogos/scripts/run/control-run.sh
 ```
+#
+### eFootball PES 2020
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PES2020.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PES2020.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/PES2020/drive_c/
+xdg-open ~/.jogos/scripts/run/PES2020-run.sh
+```
+#
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
 #### Veja primeiro o tutorial no Youtube:
