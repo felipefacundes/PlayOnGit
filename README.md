@@ -379,7 +379,7 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ### Guild Wars 2
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GuildWars2gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![GuildWars2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GuildWars2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GuildWars2.sh)`
 
