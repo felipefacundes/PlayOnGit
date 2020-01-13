@@ -291,7 +291,7 @@ xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GasGuzzlersExtreme](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GasGuzzlersExtreme.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GasGuzzlersExtreme.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GasGuzzlersExtrem.sh)`
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
