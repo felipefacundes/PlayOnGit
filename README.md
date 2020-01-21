@@ -414,7 +414,7 @@ xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 ```
 #
-### Teste BETA (não funciona corretamente ainda) - Creative Destruction Battle Royale 
+### Creative Destruction Battle Royale 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
