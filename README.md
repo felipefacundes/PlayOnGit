@@ -451,8 +451,20 @@ xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
 xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```
 #
+### Mortal Kombat Defenders of the Earth
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![MK](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/mk-df-of-the-earth.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/mkdote-mugen.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/mkdote-mugen/drive_c/
+xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
+```
+#
 ### A Tribute a Donkey Kong Country  
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
