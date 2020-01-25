@@ -30,7 +30,7 @@ xdg-open ~/.jogos/wineprefixes/control/drive_c/
 xdg-open ~/.jogos/scripts/run/control-run.sh
 ```
 #
-### Rage 2 (Steam/pay)
+### Rage 2 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Sekiro](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/rage2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
