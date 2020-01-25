@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 23/01/2020
+##### Conteúdo atualizado em 24/01/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 55 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 56 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -412,6 +412,30 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
+```
+### Counter-Strike: Global Offensive
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensiveVK.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
+xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
+```
+### Counter-Strike: Global Offensive
+#### Em OpenGL - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensiveVK.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
+xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 ```
 #
 ### Creative Destruction Battle Royale 
