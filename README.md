@@ -18,7 +18,7 @@
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 59 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
-### Control - EpicGamesStore
+### Control (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/control.gif)](https://youtu.be/rhoI0E1cp5Y)
@@ -30,19 +30,7 @@ xdg-open ~/.jogos/wineprefixes/control/drive_c/
 xdg-open ~/.jogos/scripts/run/control-run.sh
 ```
 #
-### eFootball PES 2020
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PES2020.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PES2020.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/PES2020/drive_c/
-xdg-open ~/.jogos/scripts/run/PES2020-run.sh
-```
-#
-### Rage 2
+### Rage 2 (Steam/pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Sekiro](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/rage2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -54,7 +42,7 @@ xdg-open ~/.jogos/wineprefixes/rage2/drive_c/
 xdg-open ~/.jogos/scripts/run/rage2-run.sh
 ```
 #
-### Sekiro Shadows Die Twice
+### Sekiro Shadows Die Twice (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Sekiro](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Sekiro.gif)](https://www.youtube.com/watch?v=a0dH3qPE7tE)
@@ -66,7 +54,7 @@ xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ```
 #
-### Cuphead
+### Cuphead (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
 [![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Cuphead.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -78,7 +66,19 @@ xdg-open ~/.jogos/wineprefixes/Cuphead/drive_c/
 xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 ```
 #
-### Sonic Forces
+### eFootball PES 2020 (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PES2020.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PES2020.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/PES2020/drive_c/
+xdg-open ~/.jogos/scripts/run/PES2020-run.sh
+```
+#
+### Sonic Forces (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
 [![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SonicForces.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -90,7 +90,7 @@ xdg-open ~/.jogos/wineprefixes/SonicForces/drive_c/
 xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
 ```
 #
-### NieR Automata
+### NieR Automata (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
 [![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
@@ -102,7 +102,7 @@ xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
 xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 ```
 #
-### The Witcher 3: Wild Hunt
+### The Witcher 3: Wild Hunt (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TW3.gif)](https://youtu.be/VRq6L7yn4Vo)
@@ -112,18 +112,6 @@ xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
 xdg-open ~/.jogos/scripts/run/TW3-run.sh
-```
-#
-### Unreal Tournament 2019 (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/UnrealTournament2019.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
 ### Need For Speed Payback (Origin)
@@ -138,7 +126,7 @@ xdg-open ~/.jogos/wineprefixes/NFSPayBack/drive_c/
 xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 ```
 #
-### Giana Sisters: Twisted Dreams (Steam)
+### Giana Sisters: Twisted Dreams (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GianaSistersTD.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -174,6 +162,18 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
+### Unreal Tournament 2019 (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/UnrealTournament2019.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+```
+#
 ### Overcooked (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -186,7 +186,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Mutant Year Zero Road to Eden - EpicGamesStore
+### Mutant Year Zero Road to Eden (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MutantYearZero.gif)](https://youtu.be/rhoI0E1cp5Y)
@@ -210,7 +210,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Limbo
+### Limbo (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Limbo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Limbo.gif)](https://youtu.be/rhoI0E1cp5Y)
@@ -222,7 +222,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### GTA V 
+### GTA V (Steam)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtav.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -234,7 +234,7 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
-### Devil May Cry 5 (2019) 
+### Devil May Cry 5 (2019) (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -247,7 +247,7 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
-### Rocket League
+### Rocket League (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Rocket League](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RocketLeague.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -259,7 +259,7 @@ xdg-open ~/.jogos/wineprefixes/RocketLeague/drive_c/
 xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
 ```
 #
-### Borderlands: The Pre-Sequel
+### Borderlands: The Pre-Sequel (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Borderlands: The Pre-Sequel](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Borderlands.The.Pre.Sequel.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -271,7 +271,7 @@ xdg-open ~/.jogos/wineprefixes/Borderlands.The.Pre.Sequel/drive_c/
 xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
 ```
 #
-### Devil May Cry (2013) 
+### Devil May Cry (2013) (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc-2013.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -284,7 +284,7 @@ xdg-open ~/.jogos/wineprefixes/dmc-2013/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```
 #
-### Crysis 3 
+### Crysis 3 (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -297,7 +297,7 @@ xdg-open ~/.jogos/wineprefixes/Crysis3/drive_c/
 xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 ```
 #
-### Gas Guzzlers Extreme
+### Gas Guzzlers Extreme (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GasGuzzlersExtreme](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GasGuzzlersExtreme.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -322,7 +322,7 @@ xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
 #
-### F1 2016 
+### F1 2016 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Steam](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/F1-2016.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -334,7 +334,7 @@ xdg-open ~/.jogos/wineprefixes/F1-2016/drive_c/
 xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
 ```
 #
-### Grid 2 
+### Grid 2 (Steam)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/grid2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -347,7 +347,7 @@ xdg-open ~/.jogos/wineprefixes/grid2/drive_c/
 xdg-open ~/.jogos/scripts/run/grid2-run.sh
 ```
 #
-### Kabounce
+### Kabounce (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Kabounce.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -360,7 +360,7 @@ xdg-open ~/.jogos/wineprefixes/Kabounce/drive_c/
 xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
 ```
 #
-### Saints Row IV
+### Saints Row IV (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SRIV.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -373,7 +373,7 @@ xdg-open ~/.jogos/wineprefixes/SRIV/drive_c/
 xdg-open ~/.jogos/scripts/run/SRIV-run.sh
 ```
 #
-### Sonic All Star Racing Transformed 
+### Sonic All Star Racing Transformed (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -386,7 +386,7 @@ xdg-open ~/.jogos/wineprefixes/SASRT/drive_c/
 xdg-open ~/.jogos/scripts/run/SASRT-run.sh
 ```
 #
-### Warframe 
+### Warframe (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/warframe.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -399,7 +399,7 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
-### Frenzy Retribution
+### Frenzy Retribution (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -412,7 +412,7 @@ xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
 xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
-### Counter-Strike: Global Offensive
+### Counter-Strike: Global Offensive (Vulkan) (Steam/Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -425,7 +425,7 @@ xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
 xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 ```
 #
-### Counter-Strike: Global Offensive
+### Counter-Strike: Global Offensive (OpenGL) (Steam/Free)
 #### Em OpenGL - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -438,7 +438,7 @@ xdg-open ~/.jogos/wineprefixes/CSGlobalOffensive/drive_c/
 xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 ```
 #
-### Eve Online 
+### Eve Online  (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/eve-online.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -451,7 +451,7 @@ xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
 xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```
 #
-### Guild Wars 2
+### Guild Wars 2 (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GuildWars2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GuildWars2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -464,7 +464,7 @@ xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 ```
 #
-### Creative Destruction Battle Royale 
+### Creative Destruction Battle Royale (Steam/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -477,7 +477,7 @@ xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
-### LoL - League of Legends 
+### LoL - League of Legends (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -488,7 +488,7 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 xdg-open ~/.wine-appimage-lol/drive_c
 xdg-open ~/.jogos/scripts/run/LoL-run.sh
 ```
-### Planet Coaster
+### Planet Coaster (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlanetCoaster.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -501,7 +501,7 @@ xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
 xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```
 #
-### Mortal Kombat Defenders of the Earth
+### Mortal Kombat Defenders of the Earth (Mugen/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![MK](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/mk-df-of-the-earth.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -513,7 +513,7 @@ xdg-open ~/.jogos/wineprefixes/mkdote-mugen/drive_c/
 xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
 ```
 #
-### A Tribute a Donkey Kong Country  
+### A Tribute a Donkey Kong Country  (Indie/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TDKC](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -574,7 +574,7 @@ xdg-open ~/.jogos/wineprefixes/steam-light/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-light-run.sh
 ```
 #
-### Spore (controle a evolução de uma espécie) 
+### Spore (controle a evolução de uma espécie) (Steam/Pay)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Spore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/spore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -586,7 +586,7 @@ xdg-open ~/.jogos/wineprefixes/spore/drive_c/
 xdg-open ~/.jogos/scripts/run/spore-run.sh
 ```
 #
-### GTA SA 
+### GTA SA (Demo/Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtasamta.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -598,7 +598,7 @@ xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
 xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 ```
 #
-### FlatOut 2 com GameRanger 
+### FlatOut 2 com GameRanger (Demo/Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -610,7 +610,7 @@ xdg-open ~/.jogos/wineprefixes/flatout2/drive_c/
 xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ```
 #
-### Minecraft Windows 
+### Minecraft Windows (Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/minecraft.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -624,7 +624,7 @@ xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```
 #
-### The Sims 4 OFFLINE 
+### The Sims 4 OFFLINE (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![TheSims4](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -636,19 +636,7 @@ xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
 xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```
 #
-### Age Of Empires III - Rev. 26/06/2019
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ageofempires3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ageofempiresIII.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
-xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
-```
-#
-### Sonic the Hedgehog 4: Episode II
+### Sonic the Hedgehog 4: Episode II (Demo/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -661,7 +649,19 @@ xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
 xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
-### Open Sonic 
+### Age Of Empires III (Demo/Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ageofempires3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ageofempiresIII.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
+xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
+```
+#
+### Open Sonic (Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/opensonic.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -674,7 +674,7 @@ xdg-open ~/.jogos/wineprefixes/opensonic/drive_c/
 xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 ```
 #
-### Victoria II
+### Victoria II (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VictoriaII.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -687,7 +687,7 @@ xdg-open ~/.jogos/wineprefixes/VictoriaII/drive_c/
 xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 ```
 #
-### Counter Strike 1.6
+### Counter Strike 1.6 (BR Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Counter Strike 1.6](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/cs16.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
