@@ -430,12 +430,12 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensiveVK.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensive.sh)`
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
-xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
+xdg-open ~/.jogos/wineprefixes/CSGlobalOffensive/drive_c/
+xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 ```
 #
 ### Creative Destruction Battle Royale 
