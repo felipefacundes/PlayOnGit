@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 56 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 57 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -607,6 +607,19 @@ xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
 xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
+```
+#
+### Sonic the Hedgehog 4: Episode II
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/sth4e2.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
+xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
 ### Open Sonic 
