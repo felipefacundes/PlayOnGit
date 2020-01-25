@@ -69,7 +69,7 @@ xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ### Cuphead
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SonicForces.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Cuphead.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Cuphead.sh)`
 ###### Opcional para quem quiser fazer alterações:
