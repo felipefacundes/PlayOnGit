@@ -222,7 +222,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### GTA V (Steam)
+### GTA V (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GTA V](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtav.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
