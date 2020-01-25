@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 58 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 59 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -64,6 +64,18 @@ xdg-open ~/.jogos/scripts/run/rage2-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
+```
+#
+### Cuphead
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SonicForces.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Cuphead.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Cuphead/drive_c/
+xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 ```
 #
 ### Sonic Forces
