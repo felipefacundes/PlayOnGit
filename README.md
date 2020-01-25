@@ -414,7 +414,7 @@ xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 ```
 ### Counter-Strike: Global Offensive
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
