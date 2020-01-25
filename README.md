@@ -114,7 +114,7 @@ xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
 xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ```
 #
-### Unreal Tournament 2019
+### Unreal Tournament 2019 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/UnrealTournament2019.gif)](https://youtu.be/rhoI0E1cp5Y)
@@ -126,7 +126,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Need For Speed Payback
+### Need For Speed Payback (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/NFSPayBack.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -138,7 +138,19 @@ xdg-open ~/.jogos/wineprefixes/NFSPayBack/drive_c/
 xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 ```
 #
-### Last Day Of June - EpicGamesStore
+### Giana Sisters: Twisted Dreams (Steam)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GianaSistersTD.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GianaSistersTD.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/GianaSistersTD/drive_c/
+xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
+```
+#
+### Last Day Of June (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
@@ -150,7 +162,7 @@ xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
 xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 ```
 #
-### City Of Brass - EpicGamesStore
+### City Of Brass (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
@@ -162,7 +174,7 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Overcooked - EpicGamesStore
+### Overcooked (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Overcooked.gif)](https://youtu.be/rhoI0E1cp5Y)
