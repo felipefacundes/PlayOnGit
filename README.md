@@ -16,7 +16,19 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 59 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 61 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+#
+### Shenmue III (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ShenmueIII.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ShenmueIII.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/ShenmueIII/drive_c/
+xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
+```
 #
 ### Control (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
