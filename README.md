@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 24/01/2020
+##### Conteúdo atualizado em 25/01/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 57 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 58 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Control - EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -40,19 +40,6 @@ xdg-open ~/.jogos/scripts/run/control-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/PES2020/drive_c/
 xdg-open ~/.jogos/scripts/run/PES2020-run.sh
-```
-#
-### Vortex Online Cloud Games
-###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
-#### Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VortexOnline.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/VortexOnline.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/VortexOnline/drive_c/
-xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 ```
 #
 ### Rage 2
@@ -388,6 +375,45 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
+### Frenzy Retribution
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FrenzyRetribution.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
+xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
+```
+#
+### Counter-Strike: Global Offensive
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensiveVK.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
+xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
+```
+#
+### Counter-Strike: Global Offensive
+#### Em OpenGL - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensive.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CSGlobalOffensive/drive_c/
+xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
+```
+#
 ### Eve Online 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -412,30 +438,6 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
-```
-### Counter-Strike: Global Offensive
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensiveVK.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
-xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
-```
-### Counter-Strike: Global Offensive
-#### Em OpenGL - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensive.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/CSGlobalOffensive/drive_c/
-xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 ```
 #
 ### Creative Destruction Battle Royale 
@@ -509,6 +511,19 @@ xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
+```
+#
+### Vortex Online Cloud Games
+###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
+#### Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VortexOnline.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/VortexOnline.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/VortexOnline/drive_c/
+xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 ```
 #
 ### Steam Windows para Jogos do Windows via Steam 
