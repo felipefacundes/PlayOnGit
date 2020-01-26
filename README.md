@@ -18,18 +18,6 @@
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados 61 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
-### Detroit Become Human (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/DetroitBecomeHuman.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/DetroitBecomeHuman.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/DetroitBecomeHuman/drive_c/
-xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
-```
-#
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -40,6 +28,18 @@ xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/ShenmueIII/drive_c/
 xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
+```
+#
+### Detroit Become Human (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/DetroitBecomeHuman.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/DetroitBecomeHuman.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/DetroitBecomeHuman/drive_c/
+xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 ```
 #
 ### Control (EpicGamesStore)
