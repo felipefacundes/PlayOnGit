@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 62 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 63 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -499,6 +499,18 @@ xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
+```
+#
+### Raccoo Venture (Demo/Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![MK](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVentureDemo.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RaccooVentureDemo)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RaccooVentureDemo/drive_c/
+xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 ```
 #
 ### LoL - League of Legends (MMO/Free)
