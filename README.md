@@ -506,7 +506,7 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Raccoo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVenture.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RaccooVentureDemo)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RaccooVentureDemo.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.jogos/wineprefixes/RaccooVentureDemo/drive_c/
