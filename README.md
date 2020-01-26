@@ -504,7 +504,7 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ### Raccoo Venture (Demo/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![MK](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVentureDemo.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Raccoo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVenture.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RaccooVentureDemo)`
 ###### Opcional para quem quiser fazer alterações:
