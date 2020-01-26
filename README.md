@@ -90,7 +90,7 @@ xdg-open ~/.jogos/wineprefixes/Cuphead/drive_c/
 xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 ```
 #
-### eFootball PES 2020 (Steam/Pay)
+### eFootball PES 2020 (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PES2020.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
