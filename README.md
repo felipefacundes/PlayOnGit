@@ -409,8 +409,32 @@ xdg-open ~/.jogos/scripts/run/SRIV-run.sh
 xdg-open ~/.jogos/wineprefixes/SASRT/drive_c/
 xdg-open ~/.jogos/scripts/run/SASRT-run.sh
 ```
+### Planet Coaster (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlanetCoaster.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PlanetCoaster.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
+xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
+```
 #
-### Warframe (Steam/Pay)
+### Origin 
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Origin](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Origin.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Origin.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
+xdg-open ~/.jogos/scripts/run/Origin-run.sh
+```
+#
+### Warframe (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/warframe.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -436,7 +460,20 @@ xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
 xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
-### Counter-Strike: Global Offensive (Vulkan) (Steam/Free)
+### Modern Combat 5 (Steam/Free)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![ModernCombat5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ModernCombat5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ModernCombat5.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
+xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
+```
+#
+### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -449,7 +486,7 @@ xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
 xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 ```
 #
-### Counter-Strike: Global Offensive (OpenGL) (Steam/Free)
+### Counter-Strike: Global Offensive (OpenGL - 100FPS) (Steam/Free)
 #### Em OpenGL - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -502,6 +539,7 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
 ### Raccoo Venture (Demo/Free)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Raccoo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVenture.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -511,6 +549,18 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/RaccooVentureDemo/drive_c/
 xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
+```
+#
+### Crysis 1 (2007) (Demo/Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Raccoo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Crysis.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Crysis/drive_c/
+xdg-open ~/.jogos/scripts/run/Crysis-run.sh
 ```
 #
 ### LoL - League of Legends (MMO/Free)
@@ -523,18 +573,6 @@ xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 ```bash
 xdg-open ~/.wine-appimage-lol/drive_c
 xdg-open ~/.jogos/scripts/run/LoL-run.sh
-```
-### Planet Coaster (Steam/Pay)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlanetCoaster.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PlanetCoaster.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
-xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```
 #
 ### Mortal Kombat Defenders of the Earth (Mugen/Free)
@@ -560,18 +598,7 @@ xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
 xdg-open ~/.jogos/wineprefixes/TDKC/drive_c/
 xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 ```
-#
-### Origin 
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Origin](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Origin.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Origin.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
-xdg-open ~/.jogos/scripts/run/Origin-run.sh
-```
+
 #
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
@@ -685,7 +712,7 @@ xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
 xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
-### Age Of Empires III (Demo/Free)
+### Age Of Empires III com GameRanger (Demo/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ageofempires3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
