@@ -461,10 +461,10 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
 ### Rules Of Survival Battle Royale (Free)
-#### É necessário para logar, o cliente no SmartPhone.
+#### É necessário ter o cliente no SmartPhone, para logar.
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![RulesOfSurvival](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RulesOfSurvival.sh)`
 
