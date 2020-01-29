@@ -460,6 +460,19 @@ xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
 xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
+### Cyber Hunter um Battle Royale Fenomenal (Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![CyberHunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CyberHunter.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CyberHunter/drive_c/
+xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
+```
+#
 ### Rules Of Survival Battle Royale (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
 #### Veja primeiro o tutorial no YouTube:
