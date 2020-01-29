@@ -460,6 +460,20 @@ xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
 xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
+### Rules Of Survival Battle Royale (Free)
+#### É necessário para logar, o cliente no SmartPhone.
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RulesOfSurvival.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
+xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
+```
+#
 ### Modern Combat 5 (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -471,6 +485,19 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
 xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
+```
+#
+### Creative Destruction um Battle Royale diferente (Steam/Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/creativedestruction.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
+xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
 ### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
@@ -523,19 +550,6 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
-```
-#
-### Creative Destruction Battle Royale (Steam/Free)
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/creativedestruction.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
-xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
 ### Raccoo Venture (Demo/Free)
