@@ -463,7 +463,7 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![CyberHunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![CyberHunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CyberHunter.sh)`
 
