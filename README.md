@@ -461,6 +461,7 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![CyberHunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
