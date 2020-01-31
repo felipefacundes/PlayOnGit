@@ -78,6 +78,19 @@ xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ```
 #
+### Devil May Cry 5 (2019) (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Devil May Cry 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/dmc5.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
+xdg-open ~/.jogos/scripts/run/dmc5-run.sh
+```
+#
 ### Cuphead (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -138,19 +151,6 @@ xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
 xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ```
 #
-### Devil May Cry 5 (2019) (Steam/Pay)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Devil May Cry 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/dmc5.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
-xdg-open ~/.jogos/scripts/run/dmc5-run.sh
-```
-#
 ### Need For Speed Payback (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -187,30 +187,6 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Last Day Of June (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Last Day Of June](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LastDayOfJune.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
-xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
-```
-#
-### City Of Brass (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![City Of Brass](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
-```
-#
 ### Frenzy Retribution (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -235,6 +211,30 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
+```
+#
+### City Of Brass (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![City Of Brass](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+```
+#
+### Last Day Of June (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Last Day Of June](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LastDayOfJune.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
+xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 ```
 #
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
