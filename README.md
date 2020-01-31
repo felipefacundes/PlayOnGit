@@ -138,6 +138,19 @@ xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
 xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ```
 #
+### Devil May Cry 5 (2019) (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Devil May Cry 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/dmc5.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
+xdg-open ~/.jogos/scripts/run/dmc5-run.sh
+```
+#
 ### Need For Speed Payback (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -150,16 +163,16 @@ xdg-open ~/.jogos/wineprefixes/NFSPayBack/drive_c/
 xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 ```
 #
-### Giana Sisters: Twisted Dreams (Steam/Pay)
+### EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Giana Sisters: Twisted Dreams](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GianaSistersTD.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/EpicGamesStore.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GianaSistersTD.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/GianaSistersTD/drive_c/
-xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
 ### Last Day Of June (EpicGamesStore)
@@ -222,18 +235,6 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### EpicGamesStore
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/EpicGamesStore.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
-```
-#
 ### Limbo (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -258,17 +259,85 @@ xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
-### Devil May Cry 5 (2019) (Steam/Pay)
+### Frenzy Retribution (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Devil May Cry 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Frenzy Retribution](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/dmc5.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FrenzyRetribution.sh)`
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
-xdg-open ~/.jogos/scripts/run/dmc5-run.sh
+xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
+xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
+```
+#
+### Warframe (Steam/Free)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/warframe.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/warframe.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
+xdg-open ~/.jogos/scripts/run/warframe-run.sh
+```
+#
+### Cyber Hunter um Battle Royale Fenomenal (Free)
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Cyber Hunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CyberHunter.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/CyberHunter/drive_c/
+xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
+```
+#
+### Modern Combat 5 (Steam/Free)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Modern Combat 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ModernCombat5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ModernCombat5.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
+xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
+```
+#
+### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
+#### É necessário ter o cliente no SmartPhone, para logar.
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Ride Out Heroes](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RideOutHeroes.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RideOutHeroes.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RideOutHeroes/drive_c/
+xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
+```
+#
+### Rules Of Survival Battle Royale (Free)
+#### É necessário ter o cliente no SmartPhone, para logar.
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Rules Of Survival](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RulesOfSurvival.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
+xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
 ```
 #
 ### Rocket League (Steam/Pay)
@@ -281,6 +350,31 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/RocketLeague/drive_c/
 xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
+```
+#
+### Creative Destruction um Battle Royale diferente (Steam/Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Creative Destruction](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/creativedestruction.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
+xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
+```
+#
+### Giana Sisters: Twisted Dreams (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Giana Sisters: Twisted Dreams](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GianaSistersTD.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GianaSistersTD.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/GianaSistersTD/drive_c/
+xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
 ```
 #
 ### Borderlands: The Pre-Sequel (Steam/Pay)
@@ -432,100 +526,6 @@ xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
-```
-#
-### Warframe (Steam/Free)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/warframe.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/warframe.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
-xdg-open ~/.jogos/scripts/run/warframe-run.sh
-```
-#
-### Frenzy Retribution (Steam/Free)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Frenzy Retribution](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FrenzyRetribution.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
-xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
-```
-#
-### Cyber Hunter um Battle Royale Fenomenal (Free)
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Cyber Hunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CyberHunter.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/CyberHunter/drive_c/
-xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
-```
-#
-### Modern Combat 5 (Steam/Free)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Modern Combat 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ModernCombat5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ModernCombat5.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
-xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
-```
-#
-### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
-#### É necessário ter o cliente no SmartPhone, para logar.
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Ride Out Heroes](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RideOutHeroes.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RideOutHeroes.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/RideOutHeroes/drive_c/
-xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
-```
-#
-### Rules Of Survival Battle Royale (Free)
-#### É necessário ter o cliente no SmartPhone, para logar.
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Rules Of Survival](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RulesOfSurvival.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
-xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
-```
-#
-### Creative Destruction um Battle Royale diferente (Steam/Free)
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Creative Destruction](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/creativedestruction.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
-xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
 #
 ### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
