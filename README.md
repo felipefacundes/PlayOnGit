@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 29/01/2020
+##### Conteúdo atualizado em 31/01/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -16,12 +16,12 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 69 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 71 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ShenmueIII.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Shenmue III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ShenmueIII.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ShenmueIII.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -33,7 +33,7 @@ xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
 ### Detroit Become Human (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/DetroitBecomeHuman.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Detroit Become Human](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/DetroitBecomeHuman.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/DetroitBecomeHuman.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -45,7 +45,7 @@ xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 ### Control (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/control.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/control.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/control.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -57,7 +57,7 @@ xdg-open ~/.jogos/scripts/run/control-run.sh
 ### Rage 2 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Sekiro](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/rage2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Rage 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/rage2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/rage2.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -81,7 +81,7 @@ xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ### Cuphead (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Cuphead.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Cuphead](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Cuphead.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Cuphead.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -93,7 +93,7 @@ xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 ### eFootball PES 2020 (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PES2020.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![eFootball PES 2020](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PES2020.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PES2020.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -105,7 +105,7 @@ xdg-open ~/.jogos/scripts/run/PES2020-run.sh
 ### Sonic Forces (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SonicForces.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Sonic Forces](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SonicForces.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/SonicForces.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -117,7 +117,7 @@ xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
 ### NieR Automata (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
+[![NieR Automata](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NieR-Automata.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -129,7 +129,7 @@ xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 ### The Witcher 3: Wild Hunt (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TW3.gif)](https://youtu.be/VRq6L7yn4Vo)
+[![The Witcher 3](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TW3.gif)](https://youtu.be/VRq6L7yn4Vo)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TW3.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -141,7 +141,7 @@ xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ### Need For Speed Payback (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/NFSPayBack.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Need For Speed Payback](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/NFSPayBack.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NFSPayBack.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -153,7 +153,7 @@ xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 ### Giana Sisters: Twisted Dreams (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GianaSistersTD.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Giana Sisters: Twisted Dreams](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GianaSistersTD.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GianaSistersTD.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -165,7 +165,7 @@ xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
 ### Last Day Of June (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Last Day Of June](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LastDayOfJune.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -177,7 +177,7 @@ xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 ### City Of Brass (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![City Of Brass](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -189,7 +189,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ### Unreal Tournament 2019 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/UnrealTournament2019.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Unreal Tournament 2019](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/UnrealTournament2019.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -201,7 +201,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ### Overcooked (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Overcooked.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Overcooked](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Overcooked.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -213,7 +213,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ### Mutant Year Zero Road to Eden (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![EpicGamesStore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MutantYearZero.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Mutant Year Zero Road to Eden](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MutantYearZero.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -261,7 +261,7 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ### Devil May Cry 5 (2019) (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Devil May Cry 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/dmc5.sh)`
 
@@ -298,7 +298,7 @@ xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
 ### Devil May Cry (2013) (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc-2013.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Devil May Cry 2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/dmc-2013.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/dmc-2013.sh)`
 
@@ -311,7 +311,7 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ### Crysis 3 (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Crysis 3](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Crysis3.sh)`
 
@@ -324,7 +324,7 @@ xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 ### Gas Guzzlers Extreme (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GasGuzzlersExtreme](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GasGuzzlersExtreme.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Gas Guzzlers Extreme](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GasGuzzlersExtreme.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GasGuzzlersExtrem.sh)`
 
@@ -337,7 +337,7 @@ xdg-open ~/.jogos/scripts/run/GasGuzzlersExtreme-run.sh
 ### GOG Galaxy (GOG Store) a loja da GOG 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![GOG Galaxy](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/goggalaxy.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -349,7 +349,7 @@ xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ### F1 2016 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Steam](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/F1-2016.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![F1 2016](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/F1-2016.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/F1-2016.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -361,7 +361,7 @@ xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
 ### Grid 2 (Steam)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/grid2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Grid 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/grid2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/grid2.sh)`
 
@@ -374,7 +374,7 @@ xdg-open ~/.jogos/scripts/run/grid2-run.sh
 ### Kabounce (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Kabounce.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Kabounce](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Kabounce.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Kabounce.sh)`
 
@@ -387,7 +387,7 @@ xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
 ### Saints Row IV (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SRIV.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Saints Row IV](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SRIV.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/SRIV.sh)`
 
@@ -400,7 +400,7 @@ xdg-open ~/.jogos/scripts/run/SRIV-run.sh
 ### Sonic All Star Racing Transformed (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![SASRT](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Sonic All Star Racing Transformed](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/SASRT.sh)`
 
@@ -412,7 +412,7 @@ xdg-open ~/.jogos/scripts/run/SASRT-run.sh
 ### Planet Coaster (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlanetCoaster.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Planet Coaster](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PlanetCoaster.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PlanetCoaster.sh)`
 
@@ -450,7 +450,7 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ### Frenzy Retribution (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Frenzy Retribution](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FrenzyRetribution.sh)`
 
@@ -464,7 +464,7 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![CyberHunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Cyber Hunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CyberHunter.sh)`
 
@@ -474,24 +474,10 @@ xdg-open ~/.jogos/wineprefixes/CyberHunter/drive_c/
 xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
 ```
 #
-### Rules Of Survival Battle Royale (Free)
-#### É necessário ter o cliente no SmartPhone, para logar.
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![RulesOfSurvival](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RulesOfSurvival.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
-xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
-```
-#
 ### Modern Combat 5 (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![ModernCombat5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ModernCombat5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Modern Combat 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ModernCombat5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ModernCombat5.sh)`
 
@@ -501,10 +487,38 @@ xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
 xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
 ```
 #
+### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
+#### É necessário ter o cliente no SmartPhone, para logar.
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Ride Out Heroes](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RideOutHeroes.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RideOutHeroes.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RideOutHeroes/drive_c/
+xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
+```
+#
+### Rules Of Survival Battle Royale (Free)
+#### É necessário ter o cliente no SmartPhone, para logar.
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Rules Of Survival](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RulesOfSurvival.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
+xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
+```
+#
 ### Creative Destruction um Battle Royale diferente (Steam/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Creative Destruction](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/creativedestruction.sh)`
 
@@ -517,7 +531,7 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Counter-Strike: Global Offensive com Vulkan](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensiveVK.sh)`
 
@@ -530,7 +544,7 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 ### Counter-Strike: Global Offensive (OpenGL - 100FPS) (Steam/Free)
 #### Em OpenGL - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC2013](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Counter-Strike: Global Offensive](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CSGlobalOffensive.sh)`
 
@@ -543,7 +557,7 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 ### Eve Online  (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/eve-online.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Eve Online](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/eve-online.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/eve-online.sh)`
 
@@ -556,7 +570,7 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ### Guild Wars 2 (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GuildWars2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GuildWars2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Guild Wars 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GuildWars2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GuildWars2.sh)`
 
@@ -570,7 +584,7 @@ xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Raccoo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVenture.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Raccoo Venture](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVenture.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RaccooVentureDemo.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -582,7 +596,7 @@ xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 ### Crysis 1 (2007) (Demo/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Raccoo](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Crysis 1](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Crysis.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -594,7 +608,7 @@ xdg-open ~/.jogos/scripts/run/Crysis-run.sh
 ### LoL - League of Legends (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TDKC](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![LoL - League of Legends](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LoL.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -606,7 +620,7 @@ xdg-open ~/.jogos/scripts/run/LoL-run.sh
 ### Mortal Kombat Defenders of the Earth (Mugen/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![MK](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/mk-df-of-the-earth.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Mortal Kombat Defenders of the Earth](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/mk-df-of-the-earth.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/mkdote-mugen.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -618,7 +632,7 @@ xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
 ### A Tribute a Donkey Kong Country  (Indie/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TDKC](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![A Tribute a Donkey Kong Country](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TDKC.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -680,7 +694,7 @@ xdg-open ~/.jogos/scripts/run/spore-run.sh
 ### GTA SA (Demo/Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtasamta.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![GTA SA](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtasamta.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/gtasamta.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -692,7 +706,7 @@ xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 ### FlatOut 2 com GameRanger (Demo/Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![FlatOut 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/flatout2.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -718,7 +732,7 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ### The Sims 4 OFFLINE (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![TheSims4](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![The Sims 4](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TheSims4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instale manualmente, mas antes altere o caminho do instalador do Jogo:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TheSims4.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -730,7 +744,7 @@ xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ### Sonic the Hedgehog 4: Episode II (Demo/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Sonic the Hedgehog 4: Episode II](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/sth4e2.sh)`
 
@@ -755,7 +769,7 @@ xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 ### Open Sonic (Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/opensonic.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Open Sonic](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/opensonic.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/opensonic.sh)`
 
@@ -768,7 +782,7 @@ xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 ### Victoria II (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VictoriaII.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Victoria II](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VictoriaII.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/VictoriaII.sh)`
 
@@ -794,7 +808,7 @@ xdg-open ~/.jogos/scripts/run/cs16-run.sh
 ### YUZU - Emulador de Nintendo Switch
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/yuzu.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![YUZU - Emulador de Nintendo Switch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/yuzu.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/yuzu.sh)`
 
@@ -807,7 +821,7 @@ xdg-open ~/.jogos/scripts/run/yuzu-run.sh
 ### CEMU - Emulador de Nintendo Wii U
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CEMU.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![CEMU - Emulador de Nintendo Wii U](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CEMU.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/CEMU.sh)`
 
@@ -820,7 +834,7 @@ xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 ### PCSX2 - Emulador de PlayStation 2
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PCSX2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![PCSX2 - Emulador de PlayStation 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PCSX2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PCSX2.sh)`
 
@@ -833,7 +847,7 @@ xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ### PS1 - Emuladores de PlayStation 1 (ePSXe/PSX)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PS1.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![PS1 - Emuladores de PlayStation 1](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PS1.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PS1.sh)`
 
@@ -846,7 +860,7 @@ xdg-open ~/.jogos/scripts/run/PS1-run.sh
 ### FL Studio - estação de trabalho de áudio digital
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Warframe](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flstudio.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![FL Studio - estação de trabalho de áudio digital](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flstudio.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/flstudio.sh)`
 
@@ -866,7 +880,7 @@ xdg-open ~/.jogos/scripts/run/flstudio-run.sh
 ### Albion Online MMORPG de fantasia medieval 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![DMC5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+[![Albion Online MMORPG de fantasia medieval](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Dependências necessárias:
 `flatpak sld sld2 qt5-webengine sndio`
 ##### Instale via flatpak:
