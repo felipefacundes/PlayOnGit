@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 71 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 72 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -163,6 +163,18 @@ xdg-open ~/.jogos/wineprefixes/NFSPayBack/drive_c/
 xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 ```
 #
+### GTA V (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![GTA V](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtav.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GTAV.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
+xdg-open ~/.jogos/scripts/run/GTAV-run.sh
+```
+#
 ### EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -197,18 +209,6 @@ xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
-```
-#
-### GTA V (Steam/Pay)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![GTA V](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtav.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GTAV.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
-xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
 #
 ### Frenzy Retribution (Steam/Free)
