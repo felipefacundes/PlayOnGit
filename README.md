@@ -595,7 +595,6 @@ xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 #
 ### Raccoo Venture (Demo/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Raccoo Venture](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RaccooVenture.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
