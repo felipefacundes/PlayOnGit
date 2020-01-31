@@ -225,18 +225,6 @@ xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
-### Last Day Of June (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Last Day Of June](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LastDayOfJune.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
-xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
-```
-#
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 #### Veja primeiro o tutorial no YouTube:
@@ -262,6 +250,21 @@ xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
 xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
+```
+#
+### Life After um Battle Royale no modo sobrevivência contra zumbis (Free)
+#### É necessário ter o cliente no SmartPhone, para logar.
+#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Life After](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LifeAfter.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LifeAfter.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/LifeAfter/drive_c/
+xdg-open ~/.jogos/scripts/run/LifeAfter-run.sh
 ```
 #
 ### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
@@ -316,7 +319,18 @@ xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
 xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
-
+#
+### Last Day Of June (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Last Day Of June](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LastDayOfJune.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LastDayOfJune.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
+xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
+```
 #
 ### Unreal Tournament 2019 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
