@@ -227,7 +227,6 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 #
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
-#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Cyber Hunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
@@ -255,7 +254,6 @@ xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
 ### Life After um Battle Royale no modo sobrevivência contra zumbis (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
-#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Life After](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LifeAfter.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
