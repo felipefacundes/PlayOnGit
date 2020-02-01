@@ -213,18 +213,6 @@ xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
 #
-### City Of Brass (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![City Of Brass](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
-```
-#
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -249,6 +237,19 @@ xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
 xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
+```
+#
+### TOXIKK (Steam/Free)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Modern Combat 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TOXIKK.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TOXIKK.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TOXIKK/drive_c/
+xdg-open ~/.jogos/scripts/run/TOXIKK-run.sh
 ```
 #
 ### Life After um Battle Royale no modo sobrevivência contra zumbis (Free)
@@ -316,6 +317,18 @@ xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
+```
+#
+### City Of Brass (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![City Of Brass](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CityOfBrass.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
 #
 ### Last Day Of June (EpicGamesStore)
