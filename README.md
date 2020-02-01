@@ -454,7 +454,7 @@ xdg-open ~/.jogos/wineprefixes/GasGuzzlersExtreme/drive_c/
 xdg-open ~/.jogos/scripts/run/GasGuzzlersExtreme-run.sh
 ```
 #
-### GOG Galaxy (GOG Store) a loja da GOG 
+### GOG Galaxy (GOG Store) a loja da GOG (Vulkan)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GOG Galaxy](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
@@ -467,7 +467,7 @@ xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
 #
 ### GOG Galaxy Light (GOG Store) a loja da GOG (OpenGL) 
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+#### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![GOG Galaxy](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
