@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 01/02/2020
+##### Conteúdo atualizado em 02/02/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 72 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 74 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -91,6 +91,43 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
+### Hellbound: Survival Mode (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Hellbound: Survival Mode](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/HellboundSurvivalMode.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/HellboundSurvivalMode.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/HellboundSurvivalMode/drive_c/
+xdg-open ~/.jogos/scripts/run/HellboundSurvivalMode-run.sh
+```
+#
+### NieR Automata (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![NieR Automata](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NieR-Automata.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
+xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
+```
+#
+### Frenzy Retribution (Steam/Free)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Frenzy Retribution](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FrenzyRetribution.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
+xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
+```
+#
 ### Cuphead (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -125,18 +162,6 @@ xdg-open ~/.jogos/scripts/run/PES2020-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/SonicForces/drive_c/
 xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
-```
-#
-### NieR Automata (Steam/Pay)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
-[![NieR Automata](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NieR-Automata.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
-xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 ```
 #
 ### The Witcher 3: Wild Hunt (Steam/Pay)
@@ -185,19 +210,6 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
-```
-#
-### Frenzy Retribution (Steam/Free)
-#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Frenzy Retribution](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FrenzyRetribution.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FrenzyRetribution.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
-xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
 #
 ### Warframe (Steam/Free)
