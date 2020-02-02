@@ -91,7 +91,7 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
-### Hellbound: Survival Mode (Steam/Pay)
+### Hellbound: Survival Mode (FPS) (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
 [![Hellbound: Survival Mode](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/HellboundSurvivalMode.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
