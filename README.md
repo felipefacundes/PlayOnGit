@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 02/02/2020
+##### Conteúdo atualizado em 03/02/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -76,6 +76,19 @@ xdg-open ~/.jogos/scripts/run/rage2-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
+```
+#
+### Far Cry 5 (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Far Cry 5](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/FarCry5.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/FarCry5.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/FarCry5/drive_c/
+xdg-open ~/.jogos/scripts/run/FarCry5-run.sh
 ```
 #
 ### Devil May Cry 5 (2019) (Steam/Pay)
