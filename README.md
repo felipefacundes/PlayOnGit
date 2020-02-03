@@ -950,7 +950,7 @@ xdg-open ~/.jogos/scripts/run/flstudio-run.sh
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![War Thunder](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/WarThunder.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
-`bash <(https://raw.githubusercontent.com/felipefacundes/PS/master/nativos/WarThunder.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/nativos/WarThunder.sh)`
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
