@@ -617,6 +617,19 @@ xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
 xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```
 #
+### Magic: The Gathering Arena (Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Magic: The Gathering Arena](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MagicTheGatheringArena.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MagicTheGatheringArena.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/MagicTheGatheringArena/drive_c/
+xdg-open ~/.jogos/scripts/run/MagicTheGatheringArena-run.sh
+```
+#
 ### Guild Wars 2 (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
