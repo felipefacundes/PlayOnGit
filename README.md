@@ -945,6 +945,19 @@ xdg-open ~/.jogos/wineprefixes/flstudio/drive_c/
 xdg-open ~/.jogos/scripts/run/flstudio-run.sh
 ```
 # Vamos aos Jogos Nativos:
+### War Thunder (Free)
+#### Veja primeiro o tutorial no YouTube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![War Thunder](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/WarThunder.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(https://raw.githubusercontent.com/felipefacundes/PS/master/nativos/WarThunder.sh)`
+
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/nativos/WarThunder/
+xdg-open ~/.jogos/scripts/run/WarThunder-run.sh
+```
+#
 ### Tibia 
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
