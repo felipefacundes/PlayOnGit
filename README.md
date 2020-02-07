@@ -16,7 +16,7 @@
 
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados 74 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+### Já foram postados 78 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
 #
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
@@ -52,6 +52,18 @@ xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/control/drive_c/
 xdg-open ~/.jogos/scripts/run/control-run.sh
+```
+#
+### Mortal Kombat 11 (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Mortal Kombat 11](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/DetroitBecomeHuman.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MortalKombat11.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/MortalKombat11/drive_c/
+xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
 ```
 #
 ### Rage 2 (Steam/Pay)
