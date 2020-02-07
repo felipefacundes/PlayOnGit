@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 04/02/2020
+##### Conteúdo atualizado em 07/02/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -42,18 +42,6 @@ xdg-open ~/.jogos/wineprefixes/DetroitBecomeHuman/drive_c/
 xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 ```
 #
-### Control (EpicGamesStore)
-#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/control.gif)](https://youtu.be/rhoI0E1cp5Y)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/control.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/control/drive_c/
-xdg-open ~/.jogos/scripts/run/control-run.sh
-```
-#
 ### Mortal Kombat 11 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -64,6 +52,30 @@ xdg-open ~/.jogos/scripts/run/control-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/MortalKombat11/drive_c/
 xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
+```
+#
+### Satisfactory (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Satisfactory.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Satisfactory.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Satisfactory/drive_c/
+xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
+```
+#
+### Control (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/control.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/control.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/control/drive_c/
+xdg-open ~/.jogos/scripts/run/control-run.sh
 ```
 #
 ### Rage 2 (Steam/Pay)
