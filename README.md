@@ -57,7 +57,7 @@ xdg-open ~/.jogos/scripts/run/control-run.sh
 ### Mortal Kombat 11 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Mortal Kombat 11](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/DetroitBecomeHuman.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Mortal Kombat 11](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MortalKombat11.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MortalKombat11.sh)`
 ###### Opcional para quem quiser fazer alterações:
