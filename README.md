@@ -78,6 +78,18 @@ xdg-open ~/.jogos/wineprefixes/Satisfactory/drive_c/
 xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
 ```
 #
+### Metro Exodus (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MetroExodus.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MetroExodus.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/MetroExodus/drive_c/
+xdg-open ~/.jogos/scripts/run/MetroExodus-run.sh
+```
+#
 ### Control (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
