@@ -30,6 +30,18 @@ xdg-open ~/.jogos/wineprefixes/ShenmueIII/drive_c/
 xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
 ```
 #
+### Zombie Army 4 (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Detroit Become Human](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ZombieArmy4.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ZombieArmy4.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/ZombieArmy4/drive_c/
+xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
+```
+#
 ### Detroit Become Human (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
