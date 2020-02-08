@@ -140,6 +140,18 @@ xdg-open ~/.jogos/wineprefixes/HellboundSurvivalMode/drive_c/
 xdg-open ~/.jogos/scripts/run/HellboundSurvivalMode-run.sh
 ```
 #
+### Injustice 2 (Steam/Pay)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Injustice 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Injustice2.gif)](https://youtu.be/fYoiFu-jrZs)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Injustice2.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Injustice2/drive_c/
+xdg-open ~/.jogos/scripts/run/Injustice2-run.sh
+```
+#
 ### NieR Automata (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
