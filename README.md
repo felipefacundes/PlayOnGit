@@ -152,6 +152,18 @@ xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
 #
+### Overwatch (Battle.net - Blizzard)
+#### Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Overwatch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Overwatch.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Overwatch.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Overwatch/drive_c/
+xdg-open ~/.jogos/scripts/run/Overwatch-run.sh
+```
+#
 ### Hellbound: Survival Mode (FPS) (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
