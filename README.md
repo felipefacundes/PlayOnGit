@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 09/02/2020
+##### Conteúdo atualizado em 11/02/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -174,6 +174,18 @@ xdg-open ~/.jogos/scripts/run/Overwatch-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/Battlenet/drive_c/
 xdg-open ~/.jogos/scripts/run/Battlenet-run.sh
+```
+#
+### Battle.net - Blizzard (Versão em OpenGL, para aqueles sem suporte a Vulkan)
+#### Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+[![Overwatch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Battlenet.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Battlenet-opengl.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/Battlenet-opengl/drive_c/
+xdg-open ~/.jogos/scripts/run/Battlenet-opengl-run.sh
 ```
 #
 ### Hellbound: Survival Mode (FPS) (Steam/Free)
