@@ -42,6 +42,18 @@ xdg-open ~/.jogos/wineprefixes/ZombieArmy4/drive_c/
 xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
 ```
 #
+### Tom Clancy's The Division 2 (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Tom Clancy's The Division 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TomClancysTD2.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TomClancysTD2.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/TomClancysTD2/drive_c/
+xdg-open ~/.jogos/scripts/run/TomClancysTD2-run.sh
+```
+#
 ### Detroit Become Human (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
