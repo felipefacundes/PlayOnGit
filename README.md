@@ -3,7 +3,7 @@
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
 #
-##### Conteúdo atualizado em 11/02/2020
+##### Conteúdo atualizado em 13/02/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
@@ -776,18 +776,6 @@ xdg-open ~/.jogos/wineprefixes/RaccooVentureDemo/drive_c/
 xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 ```
 #
-### Crysis 1 (2007) (Demo/Free)
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Crysis 1](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Crysis.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Crysis.sh)`
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/Crysis/drive_c/
-xdg-open ~/.jogos/scripts/run/Crysis-run.sh
-```
-#
 ### LoL - League of Legends (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -922,19 +910,6 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
 xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
-```
-#
-### Sonic the Hedgehog 4: Episode II (Demo/Free)
-#### Veja primeiro o tutorial no YouTube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Sonic the Hedgehog 4: Episode II](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/sonicthehedgehog4.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
-##### Instalar automaticamente:
-`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/sth4e2.sh)`
-
-###### Opcional para quem quiser fazer alterações:
-```bash
-xdg-open ~/.jogos/wineprefixes/sth4e2/drive_c/
-xdg-open ~/.jogos/scripts/run/sth4e2-run.sh
 ```
 #
 ### Age Of Empires III com GameRanger (Demo/Free)
