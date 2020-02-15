@@ -42,6 +42,18 @@ xdg-open ~/.jogos/wineprefixes/ZombieArmy4/drive_c/
 xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
 ```
 #
+### Ancestors The Humankind Odyssey (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![Ancestors The Humankind Odyssey](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/AncestorsTheHumankindOdyssey.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/AncestorsTheHumankindOdyssey.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/AncestorsTheHumankindOdyssey/drive_c/
+xdg-open ~/.jogos/scripts/run/AncestorsTheHumankindOdyssey-run.sh
+```
+#
 ### Tom Clancy's The Division 2 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
