@@ -81,7 +81,7 @@ xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
 ### Satisfactory (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Satisfactory.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Satisfactory](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Satisfactory.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Satisfactory.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -93,7 +93,7 @@ xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
 ### Metro Exodus (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
-[![Control](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MetroExodus.gif)](https://youtu.be/rhoI0E1cp5Y)
+[![Metro Exodus](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MetroExodus.gif)](https://youtu.be/rhoI0E1cp5Y)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MetroExodus.sh)`
 ###### Opcional para quem quiser fazer alterações:
@@ -112,6 +112,18 @@ xdg-open ~/.jogos/scripts/run/MetroExodus-run.sh
 ```bash
 xdg-open ~/.jogos/wineprefixes/control/drive_c/
 xdg-open ~/.jogos/scripts/run/control-run.sh
+```
+#
+### A Knight's Quest (EpicGamesStore)
+#### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
+###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
+[![A Knights Quest](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/AKnightsQuest.gif)](https://youtu.be/rhoI0E1cp5Y)
+##### Instalar automaticamente:
+`bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/AKnightsQuest.sh)`
+###### Opcional para quem quiser fazer alterações:
+```bash
+xdg-open ~/.jogos/wineprefixes/AKnightsQuest/drive_c/
+xdg-open ~/.jogos/scripts/run/AKnightsQuest-run.sh
 ```
 #
 ### Rage 2 (Steam/Pay)
