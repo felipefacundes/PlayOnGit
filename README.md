@@ -2,7 +2,9 @@
 # PlayOnGit 🕹
 <a href="https://github.com/felipefacundes/PlayOnGit-en"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="64" height="35" title="PlayOnGit English" alt="PlayOnGit English"></a> [English](https://github.com/felipefacundes/PlayOnGit-en)
 <a href="https://github.com/felipefacundes/PlayOnGit-es"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/espanha.jpg" width="64" height="35" title="PlayOnGit Espanol" alt="PlayOnGit Spanish"></a> [Espanol](https://github.com/felipefacundes/PlayOnGit-es)
-#
+
+----
+
 ##### Conteúdo atualizado em 15/02/2020
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
@@ -17,7 +19,7 @@
 # Vamos aos Jogos:
 [![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
 ### Já foram postados mais de 82 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
-#
+----
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -29,7 +31,7 @@
 xdg-open ~/.jogos/wineprefixes/ShenmueIII/drive_c/
 xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
 ```
-#
+----
 ### Zombie Army 4 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -41,7 +43,7 @@ xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
 xdg-open ~/.jogos/wineprefixes/ZombieArmy4/drive_c/
 xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
 ```
-#
+----
 ### Ancestors The Humankind Odyssey (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -53,7 +55,7 @@ xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
 xdg-open ~/.jogos/wineprefixes/AncestorsTHumOdyssey/drive_c/
 xdg-open ~/.jogos/scripts/run/AncestorsTHumOdyssey-run.sh
 ```
-#
+----
 ### Tom Clancy's The Division 2 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -65,7 +67,7 @@ xdg-open ~/.jogos/scripts/run/AncestorsTHumOdyssey-run.sh
 xdg-open ~/.jogos/wineprefixes/TomClancysTD2/drive_c/
 xdg-open ~/.jogos/scripts/run/TomClancysTD2-run.sh
 ```
-#
+----
 ### Detroit Become Human (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -77,7 +79,7 @@ xdg-open ~/.jogos/scripts/run/TomClancysTD2-run.sh
 xdg-open ~/.jogos/wineprefixes/DetroitBecomeHuman/drive_c/
 xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 ```
-#
+----
 ### Mortal Kombat 11 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -89,7 +91,7 @@ xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 xdg-open ~/.jogos/wineprefixes/MortalKombat11/drive_c/
 xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
 ```
-#
+----
 ### Satisfactory (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -101,7 +103,7 @@ xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
 xdg-open ~/.jogos/wineprefixes/Satisfactory/drive_c/
 xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
 ```
-#
+----
 ### Metro Exodus (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -113,7 +115,7 @@ xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
 xdg-open ~/.jogos/wineprefixes/MetroExodus/drive_c/
 xdg-open ~/.jogos/scripts/run/MetroExodus-run.sh
 ```
-#
+----
 ### Control (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -125,7 +127,7 @@ xdg-open ~/.jogos/scripts/run/MetroExodus-run.sh
 xdg-open ~/.jogos/wineprefixes/control/drive_c/
 xdg-open ~/.jogos/scripts/run/control-run.sh
 ```
-#
+----
 ### A Knight's Quest (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -137,7 +139,7 @@ xdg-open ~/.jogos/scripts/run/control-run.sh
 xdg-open ~/.jogos/wineprefixes/AKnightsQuest/drive_c/
 xdg-open ~/.jogos/scripts/run/AKnightsQuest-run.sh
 ```
-#
+----
 ### Rage 2 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -149,7 +151,7 @@ xdg-open ~/.jogos/scripts/run/AKnightsQuest-run.sh
 xdg-open ~/.jogos/wineprefixes/rage2/drive_c/
 xdg-open ~/.jogos/scripts/run/rage2-run.sh
 ```
-#
+----
 ### Sekiro Shadows Die Twice (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -161,7 +163,7 @@ xdg-open ~/.jogos/scripts/run/rage2-run.sh
 xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
 xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 ```
-#
+----
 ### Far Cry 5 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -174,7 +176,7 @@ xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 xdg-open ~/.jogos/wineprefixes/FarCry5/drive_c/
 xdg-open ~/.jogos/scripts/run/FarCry5-run.sh
 ```
-#
+----
 ### Devil May Cry 5 (2019) (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -187,7 +189,7 @@ xdg-open ~/.jogos/scripts/run/FarCry5-run.sh
 xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 ```
-#
+----
 ### Overwatch (Battle.net - Blizzard)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -199,7 +201,7 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 xdg-open ~/.jogos/wineprefixes/Overwatch/drive_c/
 xdg-open ~/.jogos/scripts/run/Overwatch-run.sh
 ```
-#
+----
 ### Battle.net - Blizzard
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -211,7 +213,7 @@ xdg-open ~/.jogos/scripts/run/Overwatch-run.sh
 xdg-open ~/.jogos/wineprefixes/Battlenet/drive_c/
 xdg-open ~/.jogos/scripts/run/Battlenet-run.sh
 ```
-#
+----
 ### Battle.net - Blizzard (Versão em OpenGL, para aqueles sem suporte a Vulkan)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -223,7 +225,7 @@ xdg-open ~/.jogos/scripts/run/Battlenet-run.sh
 xdg-open ~/.jogos/wineprefixes/Battlenet-opengl/drive_c/
 xdg-open ~/.jogos/scripts/run/Battlenet-opengl-run.sh
 ```
-#
+----
 ### Hellbound: Survival Mode (FPS) (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -235,7 +237,7 @@ xdg-open ~/.jogos/scripts/run/Battlenet-opengl-run.sh
 xdg-open ~/.jogos/wineprefixes/HellboundSurvivalMode/drive_c/
 xdg-open ~/.jogos/scripts/run/HellboundSurvivalMode-run.sh
 ```
-#
+----
 ### Injustice 2 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -247,7 +249,7 @@ xdg-open ~/.jogos/scripts/run/HellboundSurvivalMode-run.sh
 xdg-open ~/.jogos/wineprefixes/Injustice2/drive_c/
 xdg-open ~/.jogos/scripts/run/Injustice2-run.sh
 ```
-#
+----
 ### NieR Automata (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -259,7 +261,7 @@ xdg-open ~/.jogos/scripts/run/Injustice2-run.sh
 xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
 xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 ```
-#
+----
 ### Frenzy Retribution (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -272,7 +274,7 @@ xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
 xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 ```
-#
+----
 ### Cuphead (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -284,7 +286,7 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 xdg-open ~/.jogos/wineprefixes/Cuphead/drive_c/
 xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 ```
-#
+----
 ### eFootball PES 2020 (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -296,7 +298,7 @@ xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 xdg-open ~/.jogos/wineprefixes/PES2020/drive_c/
 xdg-open ~/.jogos/scripts/run/PES2020-run.sh
 ```
-#
+----
 ### Sonic Forces (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
@@ -308,7 +310,7 @@ xdg-open ~/.jogos/scripts/run/PES2020-run.sh
 xdg-open ~/.jogos/wineprefixes/SonicForces/drive_c/
 xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
 ```
-#
+----
 ### The Witcher 3: Wild Hunt (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -320,7 +322,7 @@ xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
 xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
 xdg-open ~/.jogos/scripts/run/TW3-run.sh
 ```
-#
+----
 ### Need For Speed Payback (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -332,7 +334,7 @@ xdg-open ~/.jogos/scripts/run/TW3-run.sh
 xdg-open ~/.jogos/wineprefixes/NFSPayBack/drive_c/
 xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 ```
-#
+----
 ### GTA V (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -344,7 +346,7 @@ xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
 xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 ```
-#
+----
 ### Tom Clancys Rainbow Six Siege (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -356,7 +358,7 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 xdg-open ~/.jogos/wineprefixes/TomClancysRainbowSixSiege/drive_c/
 xdg-open ~/.jogos/scripts/run/TomClancysRainbowSixSiege-run.sh
 ```
-#
+----
 ### EpicGamesStore
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -368,7 +370,7 @@ xdg-open ~/.jogos/scripts/run/TomClancysRainbowSixSiege-run.sh
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
-#
+----
 ### Warframe (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -381,7 +383,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
 xdg-open ~/.jogos/scripts/run/warframe-run.sh
 ```
-#
+----
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -394,7 +396,7 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 xdg-open ~/.jogos/wineprefixes/CyberHunter/drive_c/
 xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
 ```
-#
+----
 ### Modern Combat 5 (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -407,7 +409,7 @@ xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
 xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
 xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
 ```
-#
+----
 ### TOXIKK (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -420,7 +422,7 @@ xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
 xdg-open ~/.jogos/wineprefixes/TOXIKK/drive_c/
 xdg-open ~/.jogos/scripts/run/TOXIKK-run.sh
 ```
-#
+----
 ### Life After um Battle Royale no modo sobrevivência contra zumbis (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
@@ -434,7 +436,7 @@ xdg-open ~/.jogos/scripts/run/TOXIKK-run.sh
 xdg-open ~/.jogos/wineprefixes/LifeAfter/drive_c/
 xdg-open ~/.jogos/scripts/run/LifeAfter-run.sh
 ```
-#
+----
 ### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
@@ -448,7 +450,7 @@ xdg-open ~/.jogos/scripts/run/LifeAfter-run.sh
 xdg-open ~/.jogos/wineprefixes/RideOutHeroes/drive_c/
 xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
 ```
-#
+----
 ### Rules Of Survival Battle Royale (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
 #### Veja primeiro o tutorial no YouTube:
@@ -462,7 +464,7 @@ xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
 xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
 xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
 ```
-#
+----
 ### Rocket League (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -474,7 +476,7 @@ xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
 xdg-open ~/.jogos/wineprefixes/RocketLeague/drive_c/
 xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
 ```
-#
+----
 ### Creative Destruction um Battle Royale diferente (Steam/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -487,7 +489,7 @@ xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
 xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
 xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 ```
-#
+----
 ### City Of Brass (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -499,7 +501,7 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
-#
+----
 ### Last Day Of June (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -511,7 +513,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
 xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 ```
-#
+----
 ### Unreal Tournament 2019 (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -523,7 +525,7 @@ xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
-#
+----
 ### Overcooked (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -535,7 +537,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
-#
+----
 ### Mutant Year Zero Road to Eden (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -547,7 +549,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
-#
+----
 ### Limbo (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -559,7 +561,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
 xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 ```
-#
+----
 ### Giana Sisters: Twisted Dreams (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -571,7 +573,7 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 xdg-open ~/.jogos/wineprefixes/GianaSistersTD/drive_c/
 xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
 ```
-#
+----
 ### Borderlands: The Pre-Sequel (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -583,7 +585,7 @@ xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
 xdg-open ~/.jogos/wineprefixes/Borderlands.The.Pre.Sequel/drive_c/
 xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
 ```
-#
+----
 ### Devil May Cry (2013) (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -596,7 +598,7 @@ xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
 xdg-open ~/.jogos/wineprefixes/dmc-2013/drive_c/
 xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 ```
-#
+----
 ### Crysis 3 (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -609,7 +611,7 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 xdg-open ~/.jogos/wineprefixes/Crysis3/drive_c/
 xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 ```
-#
+----
 ### Gas Guzzlers Extreme (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -622,7 +624,7 @@ xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 xdg-open ~/.jogos/wineprefixes/GasGuzzlersExtreme/drive_c/
 xdg-open ~/.jogos/scripts/run/GasGuzzlersExtreme-run.sh
 ```
-#
+----
 ### GOG Galaxy (GOG Store) a loja da GOG (Vulkan)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -634,7 +636,7 @@ xdg-open ~/.jogos/scripts/run/GasGuzzlersExtreme-run.sh
 xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
-#
+----
 ### GOG Galaxy Light (GOG Store) a loja da GOG (OpenGL) 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -646,7 +648,7 @@ xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
 xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 ```
-#
+----
 ### F1 2016 (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -658,7 +660,7 @@ xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 xdg-open ~/.jogos/wineprefixes/F1-2016/drive_c/
 xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
 ```
-#
+----
 ### Grid 2 (Steam)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -671,7 +673,7 @@ xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
 xdg-open ~/.jogos/wineprefixes/grid2/drive_c/
 xdg-open ~/.jogos/scripts/run/grid2-run.sh
 ```
-#
+----
 ### Kabounce (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -684,7 +686,7 @@ xdg-open ~/.jogos/scripts/run/grid2-run.sh
 xdg-open ~/.jogos/wineprefixes/Kabounce/drive_c/
 xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
 ```
-#
+----
 ### Saints Row IV (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -697,7 +699,7 @@ xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
 xdg-open ~/.jogos/wineprefixes/SRIV/drive_c/
 xdg-open ~/.jogos/scripts/run/SRIV-run.sh
 ```
-#
+----
 ### Sonic All Star Racing Transformed (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -722,7 +724,7 @@ xdg-open ~/.jogos/scripts/run/SASRT-run.sh
 xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
 xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 ```
-#
+----
 ### Origin 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -734,7 +736,7 @@ xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
 xdg-open ~/.jogos/scripts/run/Origin-run.sh
 ```
-#
+----
 ### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
 #### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -747,7 +749,7 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
 xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 ```
-#
+----
 ### Counter-Strike: Global Offensive (OpenGL - 100FPS) (Steam/Free)
 #### Em OpenGL - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -760,7 +762,7 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 xdg-open ~/.jogos/wineprefixes/CSGlobalOffensive/drive_c/
 xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 ```
-#
+----
 ### Eve Online  (Steam/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -773,7 +775,7 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
 xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 ```
-#
+----
 ### Magic: The Gathering Arena (Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -786,7 +788,7 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 xdg-open ~/.jogos/wineprefixes/MagicTheGatheringArena/drive_c/
 xdg-open ~/.jogos/scripts/run/MagicTheGatheringArena-run.sh
 ```
-#
+----
 ### Guild Wars 2 (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -799,7 +801,7 @@ xdg-open ~/.jogos/scripts/run/MagicTheGatheringArena-run.sh
 xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
 xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 ```
-#
+----
 ### Raccoo Venture (Demo/Free)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -811,7 +813,7 @@ xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 xdg-open ~/.jogos/wineprefixes/RaccooVentureDemo/drive_c/
 xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 ```
-#
+----
 ### LoL - League of Legends (MMO/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -823,7 +825,7 @@ xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 xdg-open ~/.wine-appimage-lol/drive_c
 xdg-open ~/.jogos/scripts/run/LoL-run.sh
 ```
-#
+----
 ### Mortal Kombat Defenders of the Earth (Mugen/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -835,7 +837,7 @@ xdg-open ~/.jogos/scripts/run/LoL-run.sh
 xdg-open ~/.jogos/wineprefixes/mkdote-mugen/drive_c/
 xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
 ```
-#
+----
 ### A Tribute a Donkey Kong Country  (Indie/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -847,8 +849,7 @@ xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
 xdg-open ~/.jogos/wineprefixes/TDKC/drive_c/
 xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 ```
-
-#
+----
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
 #### Veja primeiro o tutorial no Youtube:
@@ -861,7 +862,7 @@ xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 xdg-open ~/.jogos/wineprefixes/VortexOnline/drive_c/
 xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 ```
-#
+----
 ### Steam Windows para Jogos do Windows via Steam 
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -873,7 +874,7 @@ xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 xdg-open ~/.jogos/wineprefixes/steam/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-run.sh
 ```
-#
+----
 ### Steam Light Windows para Jogos do Windows via Steam (OpenGL) 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -885,7 +886,7 @@ xdg-open ~/.jogos/scripts/run/steam-run.sh
 xdg-open ~/.jogos/wineprefixes/steam-light/drive_c/
 xdg-open ~/.jogos/scripts/run/steam-light-run.sh
 ```
-#
+----
 ### Spore (controle a evolução de uma espécie) (Steam/Pay)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -897,7 +898,7 @@ xdg-open ~/.jogos/scripts/run/steam-light-run.sh
 xdg-open ~/.jogos/wineprefixes/spore/drive_c/
 xdg-open ~/.jogos/scripts/run/spore-run.sh
 ```
-#
+----
 ### GTA SA (Demo/Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -909,7 +910,7 @@ xdg-open ~/.jogos/scripts/run/spore-run.sh
 xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
 xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 ```
-#
+----
 ### FlatOut 2 com GameRanger (Demo/Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -921,7 +922,7 @@ xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 xdg-open ~/.jogos/wineprefixes/flatout2/drive_c/
 xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 ```
-#
+----
 ### Minecraft Windows (Free)
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -935,7 +936,7 @@ xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 xdg-open ~/.jogos/nativos/minecraft/
 xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 ```
-#
+----
 ### The Sims 4 OFFLINE (Origin)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -947,7 +948,7 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
 xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 ```
-#
+----
 ### Age Of Empires III com GameRanger (Demo/Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -959,7 +960,7 @@ xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
 xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 ```
-#
+----
 ### Open Sonic (Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -972,7 +973,7 @@ xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 xdg-open ~/.jogos/wineprefixes/opensonic/drive_c/
 xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 ```
-#
+----
 ### Victoria II (Steam/Pay)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -985,7 +986,7 @@ xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 xdg-open ~/.jogos/wineprefixes/VictoriaII/drive_c/
 xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 ```
-#
+----
 ### Counter Strike 1.6 (BR Free)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -998,7 +999,7 @@ xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 xdg-open ~/.jogos/wineprefixes/cs16/drive_c/
 xdg-open ~/.jogos/scripts/run/cs16-run.sh
 ```
-#
+----
 ### YUZU - Emulador de Nintendo Switch
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -1011,7 +1012,7 @@ xdg-open ~/.jogos/scripts/run/cs16-run.sh
 xdg-open ~/.jogos/wineprefixes/yuzu/drive_c/
 xdg-open ~/.jogos/scripts/run/yuzu-run.sh
 ```
-#
+----
 ### CEMU - Emulador de Nintendo Wii U
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -1024,7 +1025,7 @@ xdg-open ~/.jogos/scripts/run/yuzu-run.sh
 xdg-open ~/.jogos/wineprefixes/CEMU/drive_c/
 xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 ```
-#
+----
 ### PCSX2 - Emulador de PlayStation 2
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -1037,7 +1038,7 @@ xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 xdg-open ~/.jogos/wineprefixes/PCSX2/drive_c/
 xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 ```
-#
+----
 ### PS1 - Emuladores de PlayStation 1 (ePSXe/PSX)
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -1076,14 +1077,14 @@ xdg-open ~/.jogos/scripts/run/flstudio-run.sh
 xdg-open ~/.jogos/nativos/WarThunder/
 xdg-open ~/.jogos/scripts/run/WarThunder-run.sh
 ```
-#
+----
 ### Tibia 
 #### Veja primeiro o tutorial no Youtube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
 [![Tibia](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/tibia.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Instalar automaticamente:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/nativos/tibia.sh)`
-#
+----
 ### Albion Online MMORPG de fantasia medieval 
 #### Veja primeiro o tutorial no YouTube:
 ###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube:
@@ -1097,3 +1098,12 @@ flatpak install flathub com.albiononline.AlbionOnline
 flatpak run com.albiononline.AlbionOnline
 ```
 
+----
+
+# <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="docs/brazil.jpg" width="32" height="17" title="Doação" alt="Portugues Brasil"></a> Doação
+
+Se você realmente gosta disso, pode me doar via [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
+
+# <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="32" height="17" title="Change the Lua script" alt="English"></a> Donation
+
+If you really like it, you can pay me with [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
