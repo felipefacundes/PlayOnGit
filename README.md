@@ -1100,7 +1100,7 @@ flatpak run com.albiononline.AlbionOnline
 
 ----
 
-# <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="docs/brazil.jpg" width="32" height="17" title="Doação" alt="Portugues Brasil"></a> Doação
+# <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/mpv_thumbnail_script/main/docs/brazil.jpg" width="32" height="17" title="Doação" alt="Portugues Brasil"></a> Doação
 
 Se você realmente gosta disso, pode me doar via [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
 
