@@ -5,7 +5,7 @@
 
 ----
 
-##### Conteúdo atualizado em 15/02/2020
+##### Conteúdo atualizado em 15/08/2021
 #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
