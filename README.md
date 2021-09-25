@@ -14,11 +14,11 @@
 ###### [Site](https://linuxgamers.github.io): https://linuxgamers.github.io/
 ##### License: GPLv3
 
-### [LEIA](https://github.com/felipefacundes/dicas/blob/master/README.md)! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique [aqui](https://github.com/felipefacundes/dicas/blob/master/README.md) para [ler](https://github.com/felipefacundes/dicas/blob/master/README.md) mais.
+### [READ](https://github.com/felipefacundes/dicas/blob/master/README-en.md)! First: install due dependencies. Boost performance with +50+ FPS - enable Esync. Click [on here](https://github.com/felipefacundes/dicas/blob/master/README-en.md) for [read](https://github.com/felipefacundes/dicas/blob/master/README-en.md) more.
 
-# Vamos aos Jogos:
-[![Manual de instalação](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac.png)](https://github.com/felipefacundes/dicas/blob/master/instalar.md)
-### Já foram postados mais de 82 jogos no PlayOnGit. Pesquise o seu jogo com Ctrl F no seu navegador.
+# Let's go to the games:
+[![Installation guide](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/manual_de_instalac-en.png)](https://github.com/felipefacundes/dicas/blob/master/install.md)
+### 82 games have been posted on PlayOnGit. Search your game with Ctrl F in your browser.
 ----
 ### Shenmue III (EpicGamesStore)
 #### Com suporte a DXVK - Veja primeiro o tutorial no Youtube:
