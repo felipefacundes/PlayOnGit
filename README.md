@@ -8,10 +8,10 @@
 ##### Content updated on 25/09/2021
 <img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="12" height="12" title="PlayOnGit English" alt="PlayOnGit English"> Launch your games directly from the start menu, with excellent performance. 
 ###### Created by Felipe Facundes
-###### Group of [Telegram](https://t.me/winehq_linux) 切, to request new games inclusion: https://t.me/winehq_linux
-###### Channel [Telegram](https://t.me/PlayOnGit) 切: https://t.me/PlayOnGit
+###### Group of [Telegram](https://t.me/winehq_linux), to request new games inclusion: https://t.me/winehq_linux
+###### Channel [Telegram](https://t.me/PlayOnGit): https://t.me/PlayOnGit
 ###### [Canal](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ) of [Youtube](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ): https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ
-###### [Site](https://linuxgamers.github.io) : https://linuxgamers.github.io/
+###### [Site](https://linuxgamers.github.io): https://linuxgamers.github.io/
 ##### License: GPLv3
 
 ### [LEIA](https://github.com/felipefacundes/dicas/blob/master/README.md)! Primeiro: instale às devidas dependências. Aumente a performance com mais +50 de FPS - habilite o Esync. Clique [aqui](https://github.com/felipefacundes/dicas/blob/master/README.md) para [ler](https://github.com/felipefacundes/dicas/blob/master/README.md) mais.
