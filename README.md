@@ -5,8 +5,8 @@
 
 ----
 
-##### Conteúdo atualizado em 15/08/2021
-#### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
+##### Conteúdo atualizado em 25/09/2021
+<img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="12" height="12" title="PlayOnGit English" alt="PlayOnGit English"> #### Inicie seus Jogos direto do menu iniciar, SEM precisar de Playonlinux, Proton ou Lutris, e com um desempenho muito melhor e superior.
 ###### Criado por Felipe Facundes
 ###### Grupo do [Telegram](https://t.me/winehq_linux) 切, para pedido de inclusão de novos Jogos: https://t.me/winehq_linux
 ###### Canal do [Telegram](https://t.me/PlayOnGit) 切: https://t.me/PlayOnGit
