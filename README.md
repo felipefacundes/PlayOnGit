@@ -5,7 +5,7 @@
 
 ----
 
-##### Conteúdo atualizado em 25/09/2021
+##### Content updated on 25/09/2021
 <img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="12" height="12" title="PlayOnGit English" alt="PlayOnGit English"> Launch your games directly from the start menu, with excellent performance. 
 ###### Created by Felipe Facundes
 ###### Group of [Telegram](https://t.me/winehq_linux) 切, to request new games inclusion: https://t.me/winehq_linux
