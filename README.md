@@ -12,6 +12,7 @@
 ###### Channel [Telegram](https://t.me/PlayOnGit): https://t.me/PlayOnGit
 ###### [Canal](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ) of [Youtube](https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ): https://www.youtube.com/channel/UCHcq8N6aG8tbGP9qXH4o2sQ
 ###### [Site](https://linuxgamers.github.io): https://linuxgamers.github.io/
+###### [Email](playongit@gmail.com): playongit@gmail.com
 ##### License: GPLv3
 
 ### [READ](https://github.com/felipefacundes/dicas/blob/master/README-en.md)! First: install due dependencies. Boost performance with +50+ FPS - enable Esync. Click [on here](https://github.com/felipefacundes/dicas/blob/master/README-en.md) for [read](https://github.com/felipefacundes/dicas/blob/master/README-en.md) more.
