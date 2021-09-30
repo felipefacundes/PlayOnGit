@@ -28,8 +28,8 @@
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ShenmueIII.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/ShenmueIII/drive_c/
-xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/ShenmueIII/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/ShenmueIII-run.sh
 ```
 ----
 ### Zombie Army 4 (EpicGamesStore)
@@ -40,8 +40,8 @@ xdg-open ~/.jogos/scripts/run/ShenmueIII-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ZombieArmy4.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/ZombieArmy4/drive_c/
-xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/ZombieArmy4/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/ZombieArmy4-run.sh
 ```
 ----
 ### Ancestors The Humankind Odyssey (EpicGamesStore)
@@ -52,8 +52,8 @@ xdg-open ~/.jogos/scripts/run/ZombieArmy4-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/AncestorsTHumOdyssey.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/AncestorsTHumOdyssey/drive_c/
-xdg-open ~/.jogos/scripts/run/AncestorsTHumOdyssey-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/AncestorsTHumOdyssey/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/AncestorsTHumOdyssey-run.sh
 ```
 ----
 ### Tom Clancy's The Division 2 (EpicGamesStore)
@@ -64,8 +64,8 @@ xdg-open ~/.jogos/scripts/run/AncestorsTHumOdyssey-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TomClancysTD2.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/TomClancysTD2/drive_c/
-xdg-open ~/.jogos/scripts/run/TomClancysTD2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/TomClancysTD2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/TomClancysTD2-run.sh
 ```
 ----
 ### Detroit Become Human (EpicGamesStore)
@@ -76,8 +76,8 @@ xdg-open ~/.jogos/scripts/run/TomClancysTD2-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/DetroitBecomeHuman.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/DetroitBecomeHuman/drive_c/
-xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/DetroitBecomeHuman/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/DetroitBecomeHuman-run.sh
 ```
 ----
 ### Mortal Kombat 11 (Steam/Pay)
@@ -88,8 +88,8 @@ xdg-open ~/.jogos/scripts/run/DetroitBecomeHuman-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MortalKombat11.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/MortalKombat11/drive_c/
-xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/MortalKombat11/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/MortalKombat11-run.sh
 ```
 ----
 ### Satisfactory (EpicGamesStore)
@@ -100,8 +100,8 @@ xdg-open ~/.jogos/scripts/run/MortalKombat11-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Satisfactory.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Satisfactory/drive_c/
-xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Satisfactory/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Satisfactory-run.sh
 ```
 ----
 ### Metro Exodus (EpicGamesStore)
@@ -112,8 +112,8 @@ xdg-open ~/.jogos/scripts/run/Satisfactory-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/MetroExodus.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/MetroExodus/drive_c/
-xdg-open ~/.jogos/scripts/run/MetroExodus-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/MetroExodus/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/MetroExodus-run.sh
 ```
 ----
 ### Control (EpicGamesStore)
@@ -124,8 +124,8 @@ xdg-open ~/.jogos/scripts/run/MetroExodus-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/control.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/control/drive_c/
-xdg-open ~/.jogos/scripts/run/control-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/control/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/control-run.sh
 ```
 ----
 ### A Knight's Quest (EpicGamesStore)
@@ -136,8 +136,8 @@ xdg-open ~/.jogos/scripts/run/control-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/AKnightsQuest.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/AKnightsQuest/drive_c/
-xdg-open ~/.jogos/scripts/run/AKnightsQuest-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/AKnightsQuest/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/AKnightsQuest-run.sh
 ```
 ----
 ### Rage 2 (Steam/Pay)
@@ -148,8 +148,8 @@ xdg-open ~/.jogos/scripts/run/AKnightsQuest-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/rage2.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/rage2/drive_c/
-xdg-open ~/.jogos/scripts/run/rage2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/rage2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/rage2-run.sh
 ```
 ----
 ### Sekiro Shadows Die Twice (Steam/Pay)
@@ -160,8 +160,8 @@ xdg-open ~/.jogos/scripts/run/rage2-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Sekiro.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Sekiro/drive_c/
-xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Sekiro/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Sekiro-run.sh
 ```
 ----
 ### Far Cry 5 (Steam/Pay)
@@ -173,8 +173,8 @@ xdg-open ~/.jogos/scripts/run/Sekiro-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/FarCry5/drive_c/
-xdg-open ~/.jogos/scripts/run/FarCry5-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/FarCry5/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/FarCry5-run.sh
 ```
 ----
 ### Devil May Cry 5 (2019) (Steam/Pay)
@@ -186,8 +186,8 @@ xdg-open ~/.jogos/scripts/run/FarCry5-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/dmc5/drive_c/
-xdg-open ~/.jogos/scripts/run/dmc5-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/dmc5/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/dmc5-run.sh
 ```
 ----
 ### Overwatch (Battle.net - Blizzard)
@@ -198,8 +198,8 @@ xdg-open ~/.jogos/scripts/run/dmc5-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Overwatch.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Overwatch/drive_c/
-xdg-open ~/.jogos/scripts/run/Overwatch-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Overwatch/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Overwatch-run.sh
 ```
 ----
 ### Battle.net - Blizzard
@@ -210,8 +210,8 @@ xdg-open ~/.jogos/scripts/run/Overwatch-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Battlenet.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Battlenet/drive_c/
-xdg-open ~/.jogos/scripts/run/Battlenet-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Battlenet/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Battlenet-run.sh
 ```
 ----
 ### Battle.net - Blizzard (Versão em OpenGL, para aqueles sem suporte a Vulkan)
@@ -222,8 +222,8 @@ xdg-open ~/.jogos/scripts/run/Battlenet-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Battlenet-opengl.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Battlenet-opengl/drive_c/
-xdg-open ~/.jogos/scripts/run/Battlenet-opengl-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Battlenet-opengl/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Battlenet-opengl-run.sh
 ```
 ----
 ### Hellbound: Survival Mode (FPS) (Steam/Free)
@@ -234,8 +234,8 @@ xdg-open ~/.jogos/scripts/run/Battlenet-opengl-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/HellboundSurvivalMode.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/HellboundSurvivalMode/drive_c/
-xdg-open ~/.jogos/scripts/run/HellboundSurvivalMode-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/HellboundSurvivalMode/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/HellboundSurvivalMode-run.sh
 ```
 ----
 ### Injustice 2 (Steam/Pay)
@@ -246,8 +246,8 @@ xdg-open ~/.jogos/scripts/run/HellboundSurvivalMode-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Injustice2.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Injustice2/drive_c/
-xdg-open ~/.jogos/scripts/run/Injustice2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Injustice2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Injustice2-run.sh
 ```
 ----
 ### NieR Automata (Steam/Pay)
@@ -258,8 +258,8 @@ xdg-open ~/.jogos/scripts/run/Injustice2-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NieR-Automata.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/NieR-Automata/drive_c/
-xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/NieR-Automata/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/NieR-Automata-run.sh
 ```
 ----
 ### Frenzy Retribution (Steam/Free)
@@ -271,8 +271,8 @@ xdg-open ~/.jogos/scripts/run/NieR-Automata-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/FrenzyRetribution/drive_c/
-xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/FrenzyRetribution/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/FrenzyRetribution-run.sh
 ```
 ----
 ### Cuphead (Steam/Pay)
@@ -283,8 +283,8 @@ xdg-open ~/.jogos/scripts/run/FrenzyRetribution-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Cuphead.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Cuphead/drive_c/
-xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Cuphead/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Cuphead-run.sh
 ```
 ----
 ### eFootball PES 2020 (Steam/Free)
@@ -295,8 +295,8 @@ xdg-open ~/.jogos/scripts/run/Cuphead-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/PES2020.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/PES2020/drive_c/
-xdg-open ~/.jogos/scripts/run/PES2020-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/PES2020/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/PES2020-run.sh
 ```
 ----
 ### Sonic Forces (Steam/Pay)
@@ -307,8 +307,8 @@ xdg-open ~/.jogos/scripts/run/PES2020-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/SonicForces.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/SonicForces/drive_c/
-xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/SonicForces/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/SonicForces-run.sh
 ```
 ----
 ### The Witcher 3: Wild Hunt (Steam/Pay)
@@ -319,8 +319,8 @@ xdg-open ~/.jogos/scripts/run/SonicForces-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TW3.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/TW3/drive_c/
-xdg-open ~/.jogos/scripts/run/TW3-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/TW3/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/TW3-run.sh
 ```
 ----
 ### Need For Speed Payback (Origin)
@@ -331,8 +331,8 @@ xdg-open ~/.jogos/scripts/run/TW3-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NFSPayBack.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/NFSPayBack/drive_c/
-xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/NFSPayBack/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/NFSPayBack-run.sh
 ```
 ----
 ### GTA V (Steam/Pay)
@@ -343,8 +343,8 @@ xdg-open ~/.jogos/scripts/run/NFSPayBack-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GTAV.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/GTAV/drive_c/
-xdg-open ~/.jogos/scripts/run/GTAV-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/GTAV/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/GTAV-run.sh
 ```
 ----
 ### Tom Clancys Rainbow Six Siege (Steam/Pay)
@@ -355,8 +355,8 @@ xdg-open ~/.jogos/scripts/run/GTAV-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TomClancysRainbowSixSiege.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/TomClancysRainbowSixSiege/drive_c/
-xdg-open ~/.jogos/scripts/run/TomClancysRainbowSixSiege-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/TomClancysRainbowSixSiege/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/TomClancysRainbowSixSiege-run.sh
 ```
 ----
 ### EpicGamesStore
@@ -367,8 +367,8 @@ xdg-open ~/.jogos/scripts/run/TomClancysRainbowSixSiege-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/EpicGamesStore-run.sh
 ```
 ----
 ### Warframe (Steam/Free)
@@ -380,8 +380,8 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/warframe/drive_c/
-xdg-open ~/.jogos/scripts/run/warframe-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/warframe/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/warframe-run.sh
 ```
 ----
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
@@ -393,8 +393,8 @@ xdg-open ~/.jogos/scripts/run/warframe-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/CyberHunter/drive_c/
-xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/CyberHunter/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/CyberHunter-run.sh
 ```
 ----
 ### Modern Combat 5 (Steam/Free)
@@ -406,8 +406,8 @@ xdg-open ~/.jogos/scripts/run/CyberHunter-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/ModernCombat5/drive_c/
-xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/ModernCombat5/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/ModernCombat5-run.sh
 ```
 ----
 ### TOXIKK (Steam/Free)
@@ -419,8 +419,8 @@ xdg-open ~/.jogos/scripts/run/ModernCombat5-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/TOXIKK/drive_c/
-xdg-open ~/.jogos/scripts/run/TOXIKK-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/TOXIKK/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/TOXIKK-run.sh
 ```
 ----
 ### Life After um Battle Royale no modo sobrevivência contra zumbis (Free)
@@ -433,8 +433,8 @@ xdg-open ~/.jogos/scripts/run/TOXIKK-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/LifeAfter/drive_c/
-xdg-open ~/.jogos/scripts/run/LifeAfter-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/LifeAfter/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/LifeAfter-run.sh
 ```
 ----
 ### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
@@ -447,8 +447,8 @@ xdg-open ~/.jogos/scripts/run/LifeAfter-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/RideOutHeroes/drive_c/
-xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/RideOutHeroes/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/RideOutHeroes-run.sh
 ```
 ----
 ### Rules Of Survival Battle Royale (Free)
@@ -461,8 +461,8 @@ xdg-open ~/.jogos/scripts/run/RideOutHeroes-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/RulesOfSurvival/drive_c/
-xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/RulesOfSurvival/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/RulesOfSurvival-run.sh
 ```
 ----
 ### Rocket League (Steam/Pay)
@@ -473,8 +473,8 @@ xdg-open ~/.jogos/scripts/run/RulesOfSurvival-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RocketLeague.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/RocketLeague/drive_c/
-xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/RocketLeague/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/RocketLeague-run.sh
 ```
 ----
 ### Creative Destruction um Battle Royale diferente (Steam/Free)
@@ -486,8 +486,8 @@ xdg-open ~/.jogos/scripts/run/RocketLeague-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/creativedestruction/drive_c/
-xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/creativedestruction/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/creativedestruction-run.sh
 ```
 ----
 ### City Of Brass (EpicGamesStore)
@@ -498,8 +498,8 @@ xdg-open ~/.jogos/scripts/run/creativedestruction-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/EpicGamesStore-run.sh
 ```
 ----
 ### Last Day Of June (EpicGamesStore)
@@ -510,8 +510,8 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/LastDayOfJune.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/LastDayOfJune/drive_c/
-xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/LastDayOfJune/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/LastDayOfJune-run.sh
 ```
 ----
 ### Unreal Tournament 2019 (EpicGamesStore)
@@ -522,8 +522,8 @@ xdg-open ~/.jogos/scripts/run/LastDayOfJune-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/EpicGamesStore-run.sh
 ```
 ----
 ### Overcooked (EpicGamesStore)
@@ -534,8 +534,8 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/EpicGamesStore-run.sh
 ```
 ----
 ### Mutant Year Zero Road to Eden (EpicGamesStore)
@@ -546,8 +546,8 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/EpicGamesStore-run.sh
 ```
 ----
 ### Limbo (EpicGamesStore)
@@ -558,8 +558,8 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/EpicGamesStore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/EpicGamesStore/drive_c/
-xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/EpicGamesStore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/EpicGamesStore-run.sh
 ```
 ----
 ### Giana Sisters: Twisted Dreams (Steam/Pay)
@@ -570,8 +570,8 @@ xdg-open ~/.jogos/scripts/run/EpicGamesStore-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/GianaSistersTD.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/GianaSistersTD/drive_c/
-xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/GianaSistersTD/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/GianaSistersTD-run.sh
 ```
 ----
 ### Borderlands: The Pre-Sequel (Steam/Pay)
@@ -582,8 +582,8 @@ xdg-open ~/.jogos/scripts/run/GianaSistersTD-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Borderlands.The.Pre.Sequel.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Borderlands.The.Pre.Sequel/drive_c/
-xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Borderlands.The.Pre.Sequel/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Borderlands.The.Pre.Sequel-run.sh
 ```
 ----
 ### Devil May Cry (2013) (Steam/Pay)
@@ -595,8 +595,8 @@ xdg-open ~/.jogos/scripts/run/Borderlands.The.Pre.Sequel-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/dmc-2013/drive_c/
-xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/dmc-2013/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/dmc-2013-run.sh
 ```
 ----
 ### Crysis 3 (Origin)
@@ -608,8 +608,8 @@ xdg-open ~/.jogos/scripts/run/dmc-2013-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Crysis3/drive_c/
-xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Crysis3/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Crysis3-run.sh
 ```
 ----
 ### Gas Guzzlers Extreme (Steam/Pay)
@@ -621,8 +621,8 @@ xdg-open ~/.jogos/scripts/run/Crysis3-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/GasGuzzlersExtreme/drive_c/
-xdg-open ~/.jogos/scripts/run/GasGuzzlersExtreme-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/GasGuzzlersExtreme/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/GasGuzzlersExtreme-run.sh
 ```
 ----
 ### GOG Galaxy (GOG Store) a loja da GOG (Vulkan)
@@ -633,8 +633,8 @@ xdg-open ~/.jogos/scripts/run/GasGuzzlersExtreme-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/goggalaxy.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
-xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/goggalaxy/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/goggalaxy-run.sh
 ```
 ----
 ### GOG Galaxy Light (GOG Store) a loja da GOG (OpenGL) 
@@ -645,8 +645,8 @@ xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/goggalaxy.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/goggalaxy/drive_c/
-xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/goggalaxy/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/goggalaxy-run.sh
 ```
 ----
 ### F1 2016 (Steam/Pay)
@@ -657,8 +657,8 @@ xdg-open ~/.jogos/scripts/run/goggalaxy-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/F1-2016.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/F1-2016/drive_c/
-xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/F1-2016/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/F1-2016-run.sh
 ```
 ----
 ### Grid 2 (Steam)
@@ -670,8 +670,8 @@ xdg-open ~/.jogos/scripts/run/F1-2016-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/grid2/drive_c/
-xdg-open ~/.jogos/scripts/run/grid2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/grid2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/grid2-run.sh
 ```
 ----
 ### Kabounce (Steam/Pay)
@@ -683,8 +683,8 @@ xdg-open ~/.jogos/scripts/run/grid2-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Kabounce/drive_c/
-xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Kabounce/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Kabounce-run.sh
 ```
 ----
 ### Saints Row IV (Steam/Pay)
@@ -696,8 +696,8 @@ xdg-open ~/.jogos/scripts/run/Kabounce-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/SRIV/drive_c/
-xdg-open ~/.jogos/scripts/run/SRIV-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/SRIV/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/SRIV-run.sh
 ```
 ----
 ### Sonic All Star Racing Transformed (Steam/Pay)
@@ -709,8 +709,8 @@ xdg-open ~/.jogos/scripts/run/SRIV-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/SASRT/drive_c/
-xdg-open ~/.jogos/scripts/run/SASRT-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/SASRT/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/SASRT-run.sh
 ```
 ### Planet Coaster (Steam/Pay)
 #### Com suporte a DXVK - Veja primeiro o tutorial no YouTube:
@@ -721,8 +721,8 @@ xdg-open ~/.jogos/scripts/run/SASRT-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/PlanetCoaster/drive_c/
-xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/PlanetCoaster/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/PlanetCoaster-run.sh
 ```
 ----
 ### Origin 
@@ -733,8 +733,8 @@ xdg-open ~/.jogos/scripts/run/PlanetCoaster-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Origin.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/Origin/drive_c/
-xdg-open ~/.jogos/scripts/run/Origin-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/Origin/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/Origin-run.sh
 ```
 ----
 ### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
@@ -746,8 +746,8 @@ xdg-open ~/.jogos/scripts/run/Origin-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/CSGlobalOffensiveVK/drive_c/
-xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/CSGlobalOffensiveVK/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/CSGlobalOffensiveVK-run.sh
 ```
 ----
 ### Counter-Strike: Global Offensive (OpenGL - 100FPS) (Steam/Free)
@@ -759,8 +759,8 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensiveVK-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/CSGlobalOffensive/drive_c/
-xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/CSGlobalOffensive/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/CSGlobalOffensive-run.sh
 ```
 ----
 ### Eve Online  (Steam/Free)
@@ -772,8 +772,8 @@ xdg-open ~/.jogos/scripts/run/CSGlobalOffensive-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/eve-online/drive_c/
-xdg-open ~/.jogos/scripts/run/eve-online-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/eve-online/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/eve-online-run.sh
 ```
 ----
 ### Magic: The Gathering Arena (Free)
@@ -785,8 +785,8 @@ xdg-open ~/.jogos/scripts/run/eve-online-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/MagicTheGatheringArena/drive_c/
-xdg-open ~/.jogos/scripts/run/MagicTheGatheringArena-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/MagicTheGatheringArena/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/MagicTheGatheringArena-run.sh
 ```
 ----
 ### Guild Wars 2 (MMO/Free)
@@ -798,8 +798,8 @@ xdg-open ~/.jogos/scripts/run/MagicTheGatheringArena-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/GuildWars2/drive_c/
-xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/GuildWars2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/GuildWars2-run.sh
 ```
 ----
 ### Raccoo Venture (Demo/Free)
@@ -810,8 +810,8 @@ xdg-open ~/.jogos/scripts/run/GuildWars2-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/RaccooVentureDemo.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/RaccooVentureDemo/drive_c/
-xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/RaccooVentureDemo/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/RaccooVentureDemo-run.sh
 ```
 ----
 ### LoL - League of Legends (MMO/Free)
@@ -823,7 +823,7 @@ xdg-open ~/.jogos/scripts/run/RaccooVentureDemo-run.sh
 ###### Opcional para quem quiser fazer alterações:
 ```bash
 xdg-open ~/.wine-appimage-lol/drive_c
-xdg-open ~/.jogos/scripts/run/LoL-run.sh
+xdg-open ~/.PlayOnGit/scripts/run/LoL-run.sh
 ```
 ----
 ### Mortal Kombat Defenders of the Earth (Mugen/Free)
@@ -834,8 +834,8 @@ xdg-open ~/.jogos/scripts/run/LoL-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/mkdote-mugen.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/mkdote-mugen/drive_c/
-xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/mkdote-mugen/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/mkdote-mugen-run.sh
 ```
 ----
 ### A Tribute a Donkey Kong Country  (Indie/Free)
@@ -846,8 +846,8 @@ xdg-open ~/.jogos/scripts/run/mkdote-mugen-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TDKC.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/TDKC/drive_c/
-xdg-open ~/.jogos/scripts/run/TDKC-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/TDKC/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/TDKC-run.sh
 ```
 ----
 ### Vortex Online Cloud Games
@@ -859,8 +859,8 @@ xdg-open ~/.jogos/scripts/run/TDKC-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/VortexOnline.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/VortexOnline/drive_c/
-xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/VortexOnline/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/VortexOnline-run.sh
 ```
 ----
 ### Steam Windows para Jogos do Windows via Steam 
@@ -871,8 +871,8 @@ xdg-open ~/.jogos/scripts/run/VortexOnline-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/steam.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/steam/drive_c/
-xdg-open ~/.jogos/scripts/run/steam-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/steam/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/steam-run.sh
 ```
 ----
 ### Steam Light Windows para Jogos do Windows via Steam (OpenGL) 
@@ -883,8 +883,8 @@ xdg-open ~/.jogos/scripts/run/steam-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/steam-light.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/steam-light/drive_c/
-xdg-open ~/.jogos/scripts/run/steam-light-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/steam-light/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/steam-light-run.sh
 ```
 ----
 ### Spore (controle a evolução de uma espécie) (Steam/Pay)
@@ -895,8 +895,8 @@ xdg-open ~/.jogos/scripts/run/steam-light-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/spore.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/spore/drive_c/
-xdg-open ~/.jogos/scripts/run/spore-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/spore/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/spore-run.sh
 ```
 ----
 ### GTA SA (Demo/Free)
@@ -907,8 +907,8 @@ xdg-open ~/.jogos/scripts/run/spore-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/gtasamta.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/gtasamta/drive_c/
-xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/gtasamta/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/gtasamta-run.sh
 ```
 ----
 ### FlatOut 2 com GameRanger (Demo/Free)
@@ -919,8 +919,8 @@ xdg-open ~/.jogos/scripts/run/gtasamta-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/flatout2.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/flatout2/drive_c/
-xdg-open ~/.jogos/scripts/run/flatout2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/flatout2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/flatout2-run.sh
 ```
 ----
 ### Minecraft Windows (Free)
@@ -933,8 +933,8 @@ xdg-open ~/.jogos/scripts/run/flatout2-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/nativos/minecraft.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/nativos/minecraft/
-xdg-open ~/.jogos/scripts/run/minecraft-run.sh
+xdg-open ~/.PlayOnGit/nativos/minecraft/
+xdg-open ~/.PlayOnGit/scripts/run/minecraft-run.sh
 ```
 ----
 ### The Sims 4 OFFLINE (Origin)
@@ -945,8 +945,8 @@ xdg-open ~/.jogos/scripts/run/minecraft-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/TheSims4.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/TheSims4/drive_c/
-xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/TheSims4/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/TheSims4-run.sh
 ```
 ----
 ### Age Of Empires III com GameRanger (Demo/Free)
@@ -957,8 +957,8 @@ xdg-open ~/.jogos/scripts/run/TheSims4-run.sh
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/ageofempiresIII.sh)`
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/ageofempiresIII/drive_c/
-xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/ageofempiresIII/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/ageofempiresIII-run.sh
 ```
 ----
 ### Open Sonic (Free)
@@ -970,8 +970,8 @@ xdg-open ~/.jogos/scripts/run/ageofempiresIII-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/opensonic/drive_c/
-xdg-open ~/.jogos/scripts/run/opensonic-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/opensonic/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/opensonic-run.sh
 ```
 ----
 ### Victoria II (Steam/Pay)
@@ -983,8 +983,8 @@ xdg-open ~/.jogos/scripts/run/opensonic-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/VictoriaII/drive_c/
-xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/VictoriaII/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/VictoriaII-run.sh
 ```
 ----
 ### Counter Strike 1.6 (BR Free)
@@ -996,8 +996,8 @@ xdg-open ~/.jogos/scripts/run/VictoriaII-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/cs16/drive_c/
-xdg-open ~/.jogos/scripts/run/cs16-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/cs16/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/cs16-run.sh
 ```
 ----
 ### YUZU - Emulador de Nintendo Switch
@@ -1009,8 +1009,8 @@ xdg-open ~/.jogos/scripts/run/cs16-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/yuzu/drive_c/
-xdg-open ~/.jogos/scripts/run/yuzu-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/yuzu/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/yuzu-run.sh
 ```
 ----
 ### CEMU - Emulador de Nintendo Wii U
@@ -1022,8 +1022,8 @@ xdg-open ~/.jogos/scripts/run/yuzu-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/CEMU/drive_c/
-xdg-open ~/.jogos/scripts/run/CEMU-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/CEMU/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/CEMU-run.sh
 ```
 ----
 ### PCSX2 - Emulador de PlayStation 2
@@ -1035,8 +1035,8 @@ xdg-open ~/.jogos/scripts/run/CEMU-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/PCSX2/drive_c/
-xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/PCSX2/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/PCSX2-run.sh
 ```
 ----
 ### PS1 - Emuladores de PlayStation 1 (ePSXe/PSX)
@@ -1048,8 +1048,8 @@ xdg-open ~/.jogos/scripts/run/PCSX2-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/PS1/drive_c/
-xdg-open ~/.jogos/scripts/run/PS1-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/PS1/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/PS1-run.sh
 ```
 # Vamos aos Programas de Windows:
 ### FL Studio - estação de trabalho de áudio digital
@@ -1061,8 +1061,8 @@ xdg-open ~/.jogos/scripts/run/PS1-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/wineprefixes/flstudio/drive_c/
-xdg-open ~/.jogos/scripts/run/flstudio-run.sh
+xdg-open ~/.PlayOnGit/wineprefixes/flstudio/drive_c/
+xdg-open ~/.PlayOnGit/scripts/run/flstudio-run.sh
 ```
 # Vamos aos Jogos Nativos:
 ### War Thunder (Free)
@@ -1074,8 +1074,8 @@ xdg-open ~/.jogos/scripts/run/flstudio-run.sh
 
 ###### Opcional para quem quiser fazer alterações:
 ```bash
-xdg-open ~/.jogos/nativos/WarThunder/
-xdg-open ~/.jogos/scripts/run/WarThunder-run.sh
+xdg-open ~/.PlayOnGit/nativos/WarThunder/
+xdg-open ~/.PlayOnGit/scripts/run/WarThunder-run.sh
 ```
 ----
 ### Tibia 
