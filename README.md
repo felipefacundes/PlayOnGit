@@ -192,7 +192,7 @@ xdg-open ~/.PlayOnGit/scripts/run/dmc5-run.sh
 ----
 ### Overwatch (Battle.net - Blizzard)
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Overwatch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Overwatch.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Overwatch.sh)`
@@ -204,7 +204,7 @@ xdg-open ~/.PlayOnGit/scripts/run/Overwatch-run.sh
 ----
 ### Battle.net - Blizzard
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Overwatch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Battlenet.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Battlenet.sh)`
@@ -215,8 +215,8 @@ xdg-open ~/.PlayOnGit/scripts/run/Battlenet-run.sh
 ```
 ----
 ### Battle.net - Blizzard (Versão em OpenGL, para aqueles sem suporte a Vulkan)
-#### Veja primeiro o tutorial no Youtube:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+#### Check out the tutorial on Youtube first:
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Overwatch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Battlenet.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Battlenet-opengl.sh)`
@@ -228,7 +228,7 @@ xdg-open ~/.PlayOnGit/scripts/run/Battlenet-opengl-run.sh
 ----
 ### Hellbound: Survival Mode (FPS) (Steam/Free)
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Hellbound: Survival Mode](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/HellboundSurvivalMode.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/HellboundSurvivalMode.sh)`
@@ -240,7 +240,7 @@ xdg-open ~/.PlayOnGit/scripts/run/HellboundSurvivalMode-run.sh
 ----
 ### Injustice 2 (Steam/Pay)
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Injustice 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Injustice2.gif)](https://youtu.be/fYoiFu-jrZs)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Injustice2.sh)`
@@ -252,7 +252,7 @@ xdg-open ~/.PlayOnGit/scripts/run/Injustice2-run.sh
 ----
 ### NieR Automata (Steam/Pay)
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![NieR Automata](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Nier-Automata.gif)](https://youtu.be/fYoiFu-jrZs)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/NieR-Automata.sh)`
@@ -277,7 +277,7 @@ xdg-open ~/.PlayOnGit/scripts/run/FrenzyRetribution-run.sh
 ----
 ### Cuphead (Steam/Pay)
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Cuphead](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Cuphead.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/Cuphead.sh)`
@@ -301,7 +301,7 @@ xdg-open ~/.PlayOnGit/scripts/run/PES2020-run.sh
 ----
 ### Sonic Forces (Steam/Pay)
 #### With DXVK Support - Check out the tutorial on Youtube first:
-###### Clique na figura ▼↓abaixo↓▼ para acessar o tutorial do YouTube
+###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Sonic Forces](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SonicForces.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/SonicForces.sh)`
@@ -385,7 +385,7 @@ xdg-open ~/.PlayOnGit/scripts/run/warframe-run.sh
 ```
 ----
 ### Cyber Hunter um Battle Royale Fenomenal (Free)
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Com suporte a D9VK - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Cyber Hunter](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CyberHunter2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -425,7 +425,7 @@ xdg-open ~/.PlayOnGit/scripts/run/TOXIKK-run.sh
 ----
 ### Life After um Battle Royale no modo sobrevivência contra zumbis (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Com suporte a D9VK - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Life After](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LifeAfter.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -439,7 +439,7 @@ xdg-open ~/.PlayOnGit/scripts/run/LifeAfter-run.sh
 ----
 ### Ride Out Heroes Battle Royale por classes, ao estilo RPG (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Com suporte a D9VK - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Ride Out Heroes](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RideOutHeroes.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -453,7 +453,7 @@ xdg-open ~/.PlayOnGit/scripts/run/RideOutHeroes-run.sh
 ----
 ### Rules Of Survival Battle Royale (Free)
 #### É necessário ter o cliente no SmartPhone, para logar.
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Rules Of Survival](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RulesOfSurvival.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -466,7 +466,7 @@ xdg-open ~/.PlayOnGit/scripts/run/RulesOfSurvival-run.sh
 ```
 ----
 ### Rocket League (Steam/Pay)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Rocket League](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/RocketLeague.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -478,7 +478,7 @@ xdg-open ~/.PlayOnGit/scripts/run/RocketLeague-run.sh
 ```
 ----
 ### Creative Destruction um Battle Royale diferente (Steam/Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Creative Destruction](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/creativedestruction.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -575,7 +575,7 @@ xdg-open ~/.PlayOnGit/scripts/run/GianaSistersTD-run.sh
 ```
 ----
 ### Borderlands: The Pre-Sequel (Steam/Pay)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Borderlands: The Pre-Sequel](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/Borderlands.The.Pre.Sequel.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -638,7 +638,7 @@ xdg-open ~/.PlayOnGit/scripts/run/goggalaxy-run.sh
 ```
 ----
 ### GOG Galaxy Light (GOG Store) a loja da GOG (OpenGL) 
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![GOG Galaxy](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/goggalaxy.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -701,7 +701,7 @@ xdg-open ~/.PlayOnGit/scripts/run/SRIV-run.sh
 ```
 ----
 ### Sonic All Star Racing Transformed (Steam/Pay)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Sonic All Star Racing Transformed](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/SASRT.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -738,7 +738,7 @@ xdg-open ~/.PlayOnGit/scripts/run/Origin-run.sh
 ```
 ----
 ### Counter-Strike: Global Offensive (Vulkan - 200FPS) (Steam/Free)
-#### Com suporte a D9VK - Veja primeiro o tutorial no YouTube:
+#### Com suporte a D9VK - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Counter-Strike: Global Offensive com Vulkan](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -751,7 +751,7 @@ xdg-open ~/.PlayOnGit/scripts/run/CSGlobalOffensiveVK-run.sh
 ```
 ----
 ### Counter-Strike: Global Offensive (OpenGL - 100FPS) (Steam/Free)
-#### Em OpenGL - Veja primeiro o tutorial no YouTube:
+#### Em OpenGL - Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Counter-Strike: Global Offensive](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CSGlobalOffensive.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -777,7 +777,7 @@ xdg-open ~/.PlayOnGit/scripts/run/eve-online-run.sh
 ```
 ----
 ### Magic: The Gathering Arena (Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Magic: The Gathering Arena](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/MagicTheGatheringArena.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -790,7 +790,7 @@ xdg-open ~/.PlayOnGit/scripts/run/MagicTheGatheringArena-run.sh
 ```
 ----
 ### Guild Wars 2 (MMO/Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Guild Wars 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/GuildWars2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -815,7 +815,7 @@ xdg-open ~/.PlayOnGit/scripts/run/RaccooVentureDemo-run.sh
 ```
 ----
 ### LoL - League of Legends (MMO/Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![LoL - League of Legends](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/LoL.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -827,7 +827,7 @@ xdg-open ~/.PlayOnGit/scripts/run/LoL-run.sh
 ```
 ----
 ### Mortal Kombat Defenders of the Earth (Mugen/Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Mortal Kombat Defenders of the Earth](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/mk-df-of-the-earth.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -839,7 +839,7 @@ xdg-open ~/.PlayOnGit/scripts/run/mkdote-mugen-run.sh
 ```
 ----
 ### A Tribute a Donkey Kong Country  (Indie/Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![A Tribute a Donkey Kong Country](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/TDKC.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -852,7 +852,7 @@ xdg-open ~/.PlayOnGit/scripts/run/TDKC-run.sh
 ----
 ### Vortex Online Cloud Games
 ###### Finalmente jogue Fortnite, PUBG, e muitos outros títulos no Linux.
-#### Veja primeiro o tutorial no Youtube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Vortex](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VortexOnline.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -876,7 +876,7 @@ xdg-open ~/.PlayOnGit/scripts/run/steam-run.sh
 ```
 ----
 ### Steam Light Windows para Jogos do Windows via Steam (OpenGL) 
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Steam](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/steam.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -888,7 +888,7 @@ xdg-open ~/.PlayOnGit/scripts/run/steam-light-run.sh
 ```
 ----
 ### Spore (controle a evolução de uma espécie) (Steam/Pay)
-#### Veja primeiro o tutorial no Youtube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Spore](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/spore.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -900,7 +900,7 @@ xdg-open ~/.PlayOnGit/scripts/run/spore-run.sh
 ```
 ----
 ### GTA SA (Demo/Free)
-#### Veja primeiro o tutorial no Youtube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![GTA SA](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/gtasamta.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -912,7 +912,7 @@ xdg-open ~/.PlayOnGit/scripts/run/gtasamta-run.sh
 ```
 ----
 ### FlatOut 2 com GameRanger (Demo/Free)
-#### Veja primeiro o tutorial no Youtube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![FlatOut 2](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flatout2.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -924,7 +924,7 @@ xdg-open ~/.PlayOnGit/scripts/run/flatout2-run.sh
 ```
 ----
 ### Minecraft Windows (Free)
-#### Veja primeiro o tutorial no Youtube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Minecraft](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/minecraft.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Dependências:
@@ -950,7 +950,7 @@ xdg-open ~/.PlayOnGit/scripts/run/TheSims4-run.sh
 ```
 ----
 ### Age Of Empires III com GameRanger (Demo/Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Age Of Empires III](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/ageofempires3.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -962,7 +962,7 @@ xdg-open ~/.PlayOnGit/scripts/run/ageofempiresIII-run.sh
 ```
 ----
 ### Open Sonic (Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Open Sonic](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/opensonic.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -975,7 +975,7 @@ xdg-open ~/.PlayOnGit/scripts/run/opensonic-run.sh
 ```
 ----
 ### Victoria II (Steam/Pay)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Victoria II](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/VictoriaII.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -988,7 +988,7 @@ xdg-open ~/.PlayOnGit/scripts/run/VictoriaII-run.sh
 ```
 ----
 ### Counter Strike 1.6 (BR Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Counter Strike 1.6](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/cs16.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -1001,7 +1001,7 @@ xdg-open ~/.PlayOnGit/scripts/run/cs16-run.sh
 ```
 ----
 ### YUZU - Emulador de Nintendo Switch
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![YUZU - Emulador de Nintendo Switch](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/yuzu.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -1014,7 +1014,7 @@ xdg-open ~/.PlayOnGit/scripts/run/yuzu-run.sh
 ```
 ----
 ### CEMU - Emulador de Nintendo Wii U
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![CEMU - Emulador de Nintendo Wii U](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/CEMU.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -1040,7 +1040,7 @@ xdg-open ~/.PlayOnGit/scripts/run/PCSX2-run.sh
 ```
 ----
 ### PS1 - Emuladores de PlayStation 1 (ePSXe/PSX)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![PS1 - Emuladores de PlayStation 1](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/PS1.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -1053,7 +1053,7 @@ xdg-open ~/.PlayOnGit/scripts/run/PS1-run.sh
 ```
 # Vamos aos Programas de Windows:
 ### FL Studio - estação de trabalho de áudio digital
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![FL Studio - estação de trabalho de áudio digital](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/flstudio.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -1066,7 +1066,7 @@ xdg-open ~/.PlayOnGit/scripts/run/flstudio-run.sh
 ```
 # Vamos aos Jogos Nativos:
 ### War Thunder (Free)
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![War Thunder](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/WarThunder.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
@@ -1079,14 +1079,14 @@ xdg-open ~/.PlayOnGit/scripts/run/WarThunder-run.sh
 ```
 ----
 ### Tibia 
-#### Veja primeiro o tutorial no Youtube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Tibia](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/tibia.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Install Automatically:
 `bash <(curl -s https://raw.githubusercontent.com/felipefacundes/PS/master/nativos/tibia.sh)`
 ----
 ### Albion Online MMORPG de fantasia medieval 
-#### Veja primeiro o tutorial no YouTube:
+#### Check out the tutorial on Youtube first:
 ###### Click on the picture ▼↓below↓▼ to access the YouTube tutorial:
 [![Albion Online MMORPG de fantasia medieval](https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/albion.gif)](https://github.com/felipefacundes/dicas/blob/master/TutoConstruction.md)
 ##### Dependências necessárias:
